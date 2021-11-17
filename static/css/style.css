@@ -1,0 +1,48 @@
+#selDataset {
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.well{
+    width: 200px;
+    background-color: lightgray;
+    border : 1px solid black;
+    box-shadow: 5px 5px 5px gray;
+}
+
+#row1 {
+    background-color: lightgray;
+    border: 1px solid black;
+    overflow: hidden;
+    box-shadow: 5px 5px 5px gray;
+}
+
+#sample-metadata{
+    background-color: #f4f4f4;
+    overflow: hidden;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px gray;
+}
+
+#panelhead{
+    overflow: hidden;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px gray;
+}
+
+body{
+    background-color: #f4f4f4;
+}
+
+#gauge{
+    background-color: #f4f4f4;
+    /* box-shadow: 5px 5px 5px gray; */
+    
+}
+
+#button{
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px gray;
+}
+
