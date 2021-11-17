@@ -37,7 +37,7 @@ function optionChanged(selectedCity){
      {
         // console.log(item);
         if (item[0] == "Date"){
-          item [1] = moment().format("MMM Do YYYY");
+          item [1] = moment.unix(item[1]).format("MM/DD/YYYY");
         }
         panelDisplay.append("p").text(`${item[0]}: ${item[1]}`)
         
