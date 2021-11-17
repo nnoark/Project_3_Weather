@@ -36,9 +36,13 @@ function optionChanged(selectedCity){
   Object.entries(citySelect[0]).forEach(item=> 
      {
         // console.log(item);
+        if (item[0] == "Date"){
+          item [1] = moment().format("MMM Do YYYY");
+        }
         panelDisplay.append("p").text(`${item[0]}: ${item[1]}`)
+        
      });
-      
+         
  
   // gauge chart for humidity
   const gaugeDisplay = d3.select("#gauge");
