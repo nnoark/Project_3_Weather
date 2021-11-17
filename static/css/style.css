@@ -2,13 +2,15 @@
     background-color: #f0f0f0;
     border: 1px solid black;
     overflow: hidden;
-}
+    width: 130px;
+    }
 
 .well{
-    width: 200px;
+    width: 165px;
     background-color: lightgray;
     border : 1px solid black;
     box-shadow: 5px 5px 5px gray;
+    position: relative;
 }
 
 #row1 {
