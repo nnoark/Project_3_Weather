@@ -5,7 +5,7 @@ function optionChanged(selectedCity){
   console.log (selectedCity);
 
   //read json file for the data 
-  const json_file = "resources/weather.json"
+  const json_file = "static/resources/weather.json"
 
   d3.json(json_file).then((data) => {
     console.log(data);
