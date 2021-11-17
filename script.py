@@ -3,9 +3,14 @@ import numpy as np
 import requests
 import time
 from config import api_key
+import pymongo
 
 def api_call():
+    #connect to mongo db
+    client = pymongo.MongoClient("mongodb://localhost:27017")
+
     #getting city list of top 200 cities
+
     cities = pd.read_csv(r"static\resources\cities.csv")
     cities.head()
 
@@ -47,6 +52,12 @@ def api_call():
     weather_df = pd.DataFrame({ key:pd.Series(value) for key, value in weather.items() })
     weather_df.to_csv(r'static\resources\weather_df.csv', index=False)
 
+    #update mongo db with new data
+
+    weather_data = weather_df.to_dict(orient='records')
+    db = client["city_weather_db"]
+    db.weather.insert_many(weather_data)
+
     #second api call for 5 day forecast
 
     url = 'http://api.openweathermap.org/data/2.5/forecast?'
@@ -80,3 +91,9 @@ def api_call():
     weather_5 = {'City':city_name,'Lat':lat_5,'Lng':lng_5,'Max Temp':max_temp_5,'Humidity':humidity_5,'Cloudiness':cloudiness_5,'Wind Speed':wind_speed_5,'Date':date_5}
     weather5_df = pd.DataFrame({ key:pd.Series(value) for key, value in weather_5.items() })
     weather5_df.to_csv(r'static\resources\weather_5.csv', index=False)
+
+    #update mongo db with new data
+    data5 = weather5_df.to_dict(orient='records')
+    db = client["city_weather_db"]
+    db.weather_5.insert_many(data5)
+
