@@ -8,9 +8,25 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
 
-url = "https://data.sfgov.org/resource/cuks-n6tp.json?$limit=10000";
+const data = "../resources/weather.json"
 
-d3.json(url).then(function(Response) {
+d3.json(data).then(function(Response) {
 
   console.log(Response);
+
+  var heatArray = [];
+
+  for (var i = 0; i < Response.length; i++) {
+    var data = [Response[i].metadata];
+  
+
+    if (data) {
+      heatArray.push([metadata.Lat, metadata.Lng])
+    }
+  }
+
+  var heat = L.heatLayer(heatArray, {
+    radius: 80,
+    blue: 35
+  }).addTo(myMap)
 });
