@@ -17,11 +17,11 @@ d3.json(data).then(function(data) {
   var heatArray = [];
 
   for (var i = 0; i < data.length; i++) {
-    var data = [data[i].metadata];
+    var x = [data[i].metadata];
   
 
-    if (data) {
-      heatArray.push([data.metadata.Lat, data.metadata.Lng])
+    if (x) {
+      heatArray.push([data.Lat[i], data.Lng[i]]);
     }
   }
 
