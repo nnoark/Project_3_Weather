@@ -49,3 +49,10 @@ body{
     box-shadow: 5px 5px 5px gray;
 }
 
+#map,
+body,
+html
+{
+   height: 100%;
+}
+

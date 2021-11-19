@@ -21,13 +21,13 @@ d3.json(data).then(function(data) {
   
 
     if (data) {
-      heatArray.push([metadata.Lat, metadata.Lng])
+      heatArray.push([data.metadata.Lat, data.metadata.Lng])
     }
   }
 
   var heat = L.heatLayer(heatArray, {
     radius: 80,
-    blue: 35
+    blur: 35
   }).addTo(myMap);
 
 });
