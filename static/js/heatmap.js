@@ -8,11 +8,11 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
 
-const data = "../resources/weather.json"
+const data = "static/resources/weather.json"
 
-d3.json(data).then(function(Response) {
+d3.json(data).then(function(data) {
 
-  console.log(Response);
+  console.log(data);
 
   var heatArray = [];
 
