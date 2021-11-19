@@ -1,6 +1,6 @@
 var myMap = L.map("map", {
     center: [37.7749, -122.4194],
-    zoom: 13
+    zoom: 5
   });
 
   // Adding the tile layer
@@ -16,8 +16,8 @@ d3.json(data).then(function(data) {
 
   var heatArray = [];
 
-  for (var i = 0; i < Response.length; i++) {
-    var data = [Response[i].metadata];
+  for (var i = 0; i < data.length; i++) {
+    var data = [data[i].metadata];
   
 
     if (data) {
@@ -28,5 +28,6 @@ d3.json(data).then(function(data) {
   var heat = L.heatLayer(heatArray, {
     radius: 80,
     blue: 35
-  }).addTo(myMap)
+  }).addTo(myMap);
+
 });
