@@ -72,34 +72,67 @@ function optionChanged(selectedCity){
   const layout = { width: 600, height: 400, margin: { t: 0, b: 0 } };
 
   Plotly.newPlot("gauge", gaugeData, layout);
-  });
+  
 
   const barDisplay = d3.select("#bar");
     barDisplay.html("");
+
   
   const idCity = data.metadata5.filter(city => (city.City == selectedCity));
-    console.log("------");
-    console.log(idCity);
-  
-    var maxTemp = idCity[0]["Max Temp"].slice(0,5);
-    var dateFor = idCity[0].Date.slice(0,5);
-    console.log(maxTemp);
-    console.log(dateFor);
-  
-  
-  const yValues = maxTemp.map(item => item.City + " " + "Degrees")
-    const trace = {
-          y: yValues, 
-          x: dateFor, 
-          type: 'bar', 
-      };
-          layout = {
-              title: '5 Day Max Temperature Forecast', 
-              xaxis: {title: 'Date'}, 
-              yaxis: {title: 'Temperature'}
-          };
-  Plotly.newPlot("bar", [trace], layout);
+    // console.log("------");
+    // console.log(idCity[0]["Max_Temp"]);
+  for  ( var i = 0; i < idCity.length; i++){
+
+    ytemp = [];
+    xdate = [];
+    // console.log(idCity[i]["Max_Temp"]);
+    var maxTemp = idCity[i]["Max_Temp"];
+    ytemp.push(maxTemp);
+    console.log(ytemp);
+    // console.log(maxTemp);
+    var dateFor = idCity[i]["Date"];
+    xdate.push(dateFor);
+    console.log(xdate);
+    // console.log(maxTemp);
+    // console.log(dateFor);
+    
 }
+
+  let trace = {
+    y: ytemp,
+    x: xdate, 
+    type: 'bar',
+    orientation: "h",
+    text:  ytemp,
+
+
+  };
+    layout_bar = {
+        title: '5 Day Max Temperature Forecast', 
+        xaxis: {title: 'Date'}, 
+        yaxis: {title: 'Temperature'}
+    };
+    Plotly.newPlot("bar", [trace]);
+});
+
+
+  
+  
+  // const yValues = maxTemp.map(item => item.City + " " + "Degrees")
+  //   const trace = {
+  //         y: yValues, 
+  //         x: dateFor, 
+  //         type: 'bar', 
+  //     };
+  //         layout = {
+  //             title: '5 Day Max Temperature Forecast', 
+  //             xaxis: {title: 'Date'}, 
+  //             yaxis: {title: 'Temperature'}
+  //         };
+  // Plotly.newPlot("bar", trace, layout_bar);
+  // });
+}
+
 
   //start at New york City
   optionChanged("New York City");
