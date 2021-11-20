@@ -19,6 +19,7 @@
     overflow: hidden;
     box-shadow: 5px 5px 5px gray;
     margin-top: 5px;
+    width: 105%;
 }
 
 #sample-metadata{
