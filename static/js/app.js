@@ -71,8 +71,34 @@ function optionChanged(selectedCity){
 
   const layout = { width: 600, height: 400, margin: { t: 0, b: 0 } };
 
-Plotly.newPlot("gauge", gaugeData, layout);
+  Plotly.newPlot("gauge", gaugeData, layout);
   });
+
+  const barDisplay = d3.select("#bar");
+    barDisplay.html("");
+  
+  const idCity = data.metadata5.filter(city => (city.City == selectedCity));
+    console.log("------");
+    console.log(idCity);
+  
+    var maxTemp = idCity[0]["Max Temp"].slice(0,5);
+    var dateFor = idCity[0].Date.slice(0,5);
+    console.log(maxTemp);
+    console.log(dateFor);
+  
+  
+  const yValues = maxTemp.map(item => item.City + " " + "Degrees")
+    const trace = {
+          y: yValues, 
+          x: dateFor, 
+          type: 'bar', 
+      };
+          layout = {
+              title: '5 Day Max Temperature Forecast', 
+              xaxis: {title: 'Date'}, 
+              yaxis: {title: 'Temperature'}
+          };
+  Plotly.newPlot("bar", [trace], layout);
 }
 
   //start at New york City
