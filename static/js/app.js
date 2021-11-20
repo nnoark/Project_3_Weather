@@ -81,10 +81,11 @@ function optionChanged(selectedCity){
   const idCity = data.metadata5.filter(city => (city.City == selectedCity));
     // console.log("------");
     // console.log(idCity[0]["Max_Temp"]);
-  for  ( var i = 0; i < idCity.length; i++){
-
     ytemp = [];
     xdate = [];
+
+  for  ( var i = 0; i < idCity.length; i++){
+
     // console.log(idCity[i]["Max_Temp"]);
     var maxTemp = idCity[i]["Max_Temp"];
     ytemp.push(maxTemp);
@@ -102,7 +103,7 @@ function optionChanged(selectedCity){
     y: ytemp,
     x: xdate, 
     type: 'bar',
-    orientation: "h",
+    orientation: "v",
     text:  ytemp,
 
 
@@ -111,7 +112,7 @@ function optionChanged(selectedCity){
         title: '5 Day Max Temperature Forecast', 
         xaxis: {title: 'Date'}, 
         yaxis: {title: 'Temperature'},
-        bargap: 0
+        
     };
     Plotly.newPlot("bar", [trace], layout_bar);
 });

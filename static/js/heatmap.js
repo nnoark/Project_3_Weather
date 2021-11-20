@@ -8,6 +8,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
 
+
+
 const json = "static/resources/weather.json";
 
 d3.json(json).then(function(data) {
@@ -19,7 +21,7 @@ d3.json(json).then(function(data) {
   for (var i = 0; i < data.metadata.length; i++) {
     var location = [data.metadata[i].Lat,data.metadata[i].Lng]
     var city = [data.metadata[i]["City"]]
-    var maxtemp = [data.metadata[i]["Max Temp"]]
+    var maxtemp = [data.metadata[i]["Max_Temp"]]
     var humidity = [data.metadata[i]["Humidity"]]
     var wind = [data.metadata[i]["Wind Speed"]]
     L.marker(location,{
@@ -40,10 +42,10 @@ d3.json(json).then(function(data) {
   }
 
 
-    var heat = L.heatLayer(heatArray, {
-      max: Math.max(location[2]),
-      radius: 35,
-      blur:30,
-        }).addTo(myMap);  
+ ///   var heat = L.heatLayer(heatArray, {
+     /// max: Math.max(location[2]),
+     /// radius: 35,
+      ///blur:30,
+       //// }).addTo(myMap);  
  
 });
