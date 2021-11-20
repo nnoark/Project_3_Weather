@@ -110,9 +110,10 @@ function optionChanged(selectedCity){
     layout_bar = {
         title: '5 Day Max Temperature Forecast', 
         xaxis: {title: 'Date'}, 
-        yaxis: {title: 'Temperature'}
+        yaxis: {title: 'Temperature'},
+        bargap: 0
     };
-    Plotly.newPlot("bar", [trace]);
+    Plotly.newPlot("bar", [trace], layout_bar);
 });
 
 

@@ -2210,7 +2210,7 @@
      "Humidity": 65,
      "Cloudiness": 53,
      "Wind Speed": 8.93,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "New York City",
@@ -2220,7 +2220,7 @@
      "Humidity": 47,
      "Cloudiness": 75,
      "Wind Speed": 4.57,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "New York City",
@@ -2230,7 +2230,7 @@
      "Humidity": 50,
      "Cloudiness": 81,
      "Wind Speed": 7.36,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "New York City",
@@ -2240,7 +2240,7 @@
      "Humidity": 41,
      "Cloudiness": 9,
      "Wind Speed": 5.66,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "New York City",
@@ -2250,7 +2250,7 @@
      "Humidity": 64,
      "Cloudiness": 100,
      "Wind Speed": 2.45,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Los Angeles",
@@ -2260,7 +2260,7 @@
      "Humidity": 18,
      "Cloudiness": 1,
      "Wind Speed": 1.91,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Los Angeles",
@@ -2270,7 +2270,7 @@
      "Humidity": 13,
      "Cloudiness": 0,
      "Wind Speed": 2.64,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Los Angeles",
@@ -2280,7 +2280,7 @@
      "Humidity": 17,
      "Cloudiness": 6,
      "Wind Speed": 2.41,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Los Angeles",
@@ -2290,7 +2290,7 @@
      "Humidity": 33,
      "Cloudiness": 100,
      "Wind Speed": 3.15,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Los Angeles",
@@ -2300,7 +2300,7 @@
      "Humidity": 39,
      "Cloudiness": 5,
      "Wind Speed": 2.49,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Chicago",
@@ -2310,7 +2310,7 @@
      "Humidity": 62,
      "Cloudiness": 92,
      "Wind Speed": 5.36,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Chicago",
@@ -2320,7 +2320,7 @@
      "Humidity": 90,
      "Cloudiness": 100,
      "Wind Speed": 9.19,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Chicago",
@@ -2330,7 +2330,7 @@
      "Humidity": 46,
      "Cloudiness": 100,
      "Wind Speed": 3.67,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Chicago",
@@ -2340,7 +2340,7 @@
      "Humidity": 69,
      "Cloudiness": 51,
      "Wind Speed": 3.81,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Chicago",
@@ -2350,7 +2350,7 @@
      "Humidity": 93,
      "Cloudiness": 100,
      "Wind Speed": 2.47,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Houston",
@@ -2360,7 +2360,7 @@
      "Humidity": 31,
      "Cloudiness": 8,
      "Wind Speed": 3.73,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Houston",
@@ -2370,7 +2370,7 @@
      "Humidity": 43,
      "Cloudiness": 4,
      "Wind Speed": 2.69,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Houston",
@@ -2380,7 +2380,7 @@
      "Humidity": 45,
      "Cloudiness": 22,
      "Wind Speed": 4.29,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Houston",
@@ -2390,7 +2390,7 @@
      "Humidity": 45,
      "Cloudiness": 0,
      "Wind Speed": 6.12,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Houston",
@@ -2400,7 +2400,7 @@
      "Humidity": 56,
      "Cloudiness": 82,
      "Wind Speed": 4.65,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Phoenix",
@@ -2410,7 +2410,7 @@
      "Humidity": 19,
      "Cloudiness": 13,
      "Wind Speed": 0.2,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Phoenix",
@@ -2420,7 +2420,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 1.05,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Phoenix",
@@ -2430,7 +2430,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 0.48,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Phoenix",
@@ -2440,7 +2440,7 @@
      "Humidity": 12,
      "Cloudiness": 100,
      "Wind Speed": 1.24,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Phoenix",
@@ -2450,7 +2450,7 @@
      "Humidity": 15,
      "Cloudiness": 79,
      "Wind Speed": 1.31,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Philadelphia",
@@ -2460,7 +2460,7 @@
      "Humidity": 67,
      "Cloudiness": 84,
      "Wind Speed": 6.45,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Philadelphia",
@@ -2470,7 +2470,7 @@
      "Humidity": 44,
      "Cloudiness": 59,
      "Wind Speed": 3.63,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Philadelphia",
@@ -2480,7 +2480,7 @@
      "Humidity": 54,
      "Cloudiness": 82,
      "Wind Speed": 6.2,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Philadelphia",
@@ -2490,7 +2490,7 @@
      "Humidity": 40,
      "Cloudiness": 7,
      "Wind Speed": 3.77,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Philadelphia",
@@ -2500,7 +2500,7 @@
      "Humidity": 54,
      "Cloudiness": 88,
      "Wind Speed": 1.73,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "San Antonio",
@@ -2510,7 +2510,7 @@
      "Humidity": 24,
      "Cloudiness": 1,
      "Wind Speed": 2.34,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "San Antonio",
@@ -2520,7 +2520,7 @@
      "Humidity": 43,
      "Cloudiness": 15,
      "Wind Speed": 3.1,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "San Antonio",
@@ -2530,7 +2530,7 @@
      "Humidity": 43,
      "Cloudiness": 0,
      "Wind Speed": 5.05,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "San Antonio",
@@ -2540,7 +2540,7 @@
      "Humidity": 36,
      "Cloudiness": 0,
      "Wind Speed": 6.79,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "San Antonio",
@@ -2550,7 +2550,7 @@
      "Humidity": 39,
      "Cloudiness": 99,
      "Wind Speed": 5.99,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "San Diego",
@@ -2560,7 +2560,7 @@
      "Humidity": 33,
      "Cloudiness": 13,
      "Wind Speed": 2.2,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "San Diego",
@@ -2570,7 +2570,7 @@
      "Humidity": 34,
      "Cloudiness": 0,
      "Wind Speed": 3.92,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "San Diego",
@@ -2580,7 +2580,7 @@
      "Humidity": 37,
      "Cloudiness": 0,
      "Wind Speed": 2.81,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "San Diego",
@@ -2590,7 +2590,7 @@
      "Humidity": 53,
      "Cloudiness": 100,
      "Wind Speed": 2.87,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "San Diego",
@@ -2600,7 +2600,7 @@
      "Humidity": 65,
      "Cloudiness": 93,
      "Wind Speed": 3.28,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Dallas",
@@ -2610,7 +2610,7 @@
      "Humidity": 28,
      "Cloudiness": 1,
      "Wind Speed": 1.89,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Dallas",
@@ -2620,7 +2620,7 @@
      "Humidity": 34,
      "Cloudiness": 21,
      "Wind Speed": 1.21,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Dallas",
@@ -2630,7 +2630,7 @@
      "Humidity": 42,
      "Cloudiness": 3,
      "Wind Speed": 4.19,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Dallas",
@@ -2640,7 +2640,7 @@
      "Humidity": 45,
      "Cloudiness": 0,
      "Wind Speed": 7.59,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Dallas",
@@ -2650,7 +2650,7 @@
      "Humidity": 40,
      "Cloudiness": 0,
      "Wind Speed": 6.35,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Austin",
@@ -2660,7 +2660,7 @@
      "Humidity": 27,
      "Cloudiness": 50,
      "Wind Speed": 1.5,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Austin",
@@ -2670,7 +2670,7 @@
      "Humidity": 42,
      "Cloudiness": 29,
      "Wind Speed": 4.35,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Austin",
@@ -2680,7 +2680,7 @@
      "Humidity": 47,
      "Cloudiness": 5,
      "Wind Speed": 5.45,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Austin",
@@ -2690,7 +2690,7 @@
      "Humidity": 41,
      "Cloudiness": 0,
      "Wind Speed": 7.24,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Austin",
@@ -2700,7 +2700,7 @@
      "Humidity": 42,
      "Cloudiness": 55,
      "Wind Speed": 6.5,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "San Jose",
@@ -2710,7 +2710,7 @@
      "Humidity": 59,
      "Cloudiness": 7,
      "Wind Speed": 1.94,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "San Jose",
@@ -2720,7 +2720,7 @@
      "Humidity": 29,
      "Cloudiness": 42,
      "Wind Speed": 1.17,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "San Jose",
@@ -2730,7 +2730,7 @@
      "Humidity": 36,
      "Cloudiness": 100,
      "Wind Speed": 1.41,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "San Jose",
@@ -2740,7 +2740,7 @@
      "Humidity": 45,
      "Cloudiness": 0,
      "Wind Speed": 2.26,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "San Jose",
@@ -2750,7 +2750,7 @@
      "Humidity": 41,
      "Cloudiness": 88,
      "Wind Speed": 0.39,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Fort Worth",
@@ -2760,7 +2760,7 @@
      "Humidity": 27,
      "Cloudiness": 1,
      "Wind Speed": 3.14,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Fort Worth",
@@ -2770,7 +2770,7 @@
      "Humidity": 32,
      "Cloudiness": 25,
      "Wind Speed": 1.8,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Fort Worth",
@@ -2780,7 +2780,7 @@
      "Humidity": 32,
      "Cloudiness": 3,
      "Wind Speed": 4.8,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Fort Worth",
@@ -2790,7 +2790,7 @@
      "Humidity": 39,
      "Cloudiness": 0,
      "Wind Speed": 8.83,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Fort Worth",
@@ -2800,7 +2800,7 @@
      "Humidity": 35,
      "Cloudiness": 0,
      "Wind Speed": 7.02,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Jacksonville",
@@ -2810,7 +2810,7 @@
      "Humidity": 65,
      "Cloudiness": 82,
      "Wind Speed": 2.51,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Jacksonville",
@@ -2820,7 +2820,7 @@
      "Humidity": 26,
      "Cloudiness": 0,
      "Wind Speed": 3.36,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Jacksonville",
@@ -2830,7 +2830,7 @@
      "Humidity": 25,
      "Cloudiness": 0,
      "Wind Speed": 2.62,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Jacksonville",
@@ -2840,7 +2840,7 @@
      "Humidity": 32,
      "Cloudiness": 0,
      "Wind Speed": 2.84,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Jacksonville",
@@ -2850,7 +2850,7 @@
      "Humidity": 54,
      "Cloudiness": 60,
      "Wind Speed": 4.01,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Columbus",
@@ -2860,7 +2860,7 @@
      "Humidity": 69,
      "Cloudiness": 93,
      "Wind Speed": 5.68,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Columbus",
@@ -2870,7 +2870,7 @@
      "Humidity": 97,
      "Cloudiness": 100,
      "Wind Speed": 5.36,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Columbus",
@@ -2880,7 +2880,7 @@
      "Humidity": 57,
      "Cloudiness": 64,
      "Wind Speed": 4.03,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Columbus",
@@ -2890,7 +2890,7 @@
      "Humidity": 64,
      "Cloudiness": 69,
      "Wind Speed": 2.8,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Columbus",
@@ -2900,7 +2900,7 @@
      "Humidity": 64,
      "Cloudiness": 71,
      "Wind Speed": 6.27,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Charlotte",
@@ -2910,7 +2910,7 @@
      "Humidity": 41,
      "Cloudiness": 15,
      "Wind Speed": 3.31,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Charlotte",
@@ -2920,7 +2920,7 @@
      "Humidity": 32,
      "Cloudiness": 0,
      "Wind Speed": 4.37,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Charlotte",
@@ -2930,7 +2930,7 @@
      "Humidity": 22,
      "Cloudiness": 15,
      "Wind Speed": 2.57,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Charlotte",
@@ -2940,7 +2940,7 @@
      "Humidity": 32,
      "Cloudiness": 0,
      "Wind Speed": 2.44,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Charlotte",
@@ -2950,7 +2950,7 @@
      "Humidity": 35,
      "Cloudiness": 0,
      "Wind Speed": 3.33,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Indianapolis",
@@ -2960,7 +2960,7 @@
      "Humidity": 68,
      "Cloudiness": 93,
      "Wind Speed": 5.09,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Indianapolis",
@@ -2970,7 +2970,7 @@
      "Humidity": 73,
      "Cloudiness": 92,
      "Wind Speed": 7.58,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Indianapolis",
@@ -2980,7 +2980,7 @@
      "Humidity": 50,
      "Cloudiness": 96,
      "Wind Speed": 3.13,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Indianapolis",
@@ -2990,7 +2990,7 @@
      "Humidity": 72,
      "Cloudiness": 38,
      "Wind Speed": 3.74,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Indianapolis",
@@ -3000,7 +3000,7 @@
      "Humidity": 67,
      "Cloudiness": 100,
      "Wind Speed": 7.13,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "San Francisco",
@@ -3010,7 +3010,7 @@
      "Humidity": 70,
      "Cloudiness": 14,
      "Wind Speed": 2.55,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "San Francisco",
@@ -3020,7 +3020,7 @@
      "Humidity": 53,
      "Cloudiness": 80,
      "Wind Speed": 2.93,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "San Francisco",
@@ -3030,7 +3030,7 @@
      "Humidity": 64,
      "Cloudiness": 100,
      "Wind Speed": 1.67,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "San Francisco",
@@ -3040,7 +3040,7 @@
      "Humidity": 71,
      "Cloudiness": 0,
      "Wind Speed": 1.91,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "San Francisco",
@@ -3050,7 +3050,7 @@
      "Humidity": 43,
      "Cloudiness": 87,
      "Wind Speed": 1.22,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Seattle",
@@ -3060,7 +3060,7 @@
      "Humidity": 90,
      "Cloudiness": 83,
      "Wind Speed": 1.67,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Seattle",
@@ -3070,7 +3070,7 @@
      "Humidity": 93,
      "Cloudiness": 100,
      "Wind Speed": 6.39,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Seattle",
@@ -3080,7 +3080,7 @@
      "Humidity": 85,
      "Cloudiness": 100,
      "Wind Speed": 4.43,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Seattle",
@@ -3090,7 +3090,7 @@
      "Humidity": 63,
      "Cloudiness": 42,
      "Wind Speed": 1.22,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Seattle",
@@ -3100,7 +3100,7 @@
      "Humidity": 60,
      "Cloudiness": 100,
      "Wind Speed": 2.78,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Denver",
@@ -3110,7 +3110,7 @@
      "Humidity": 22,
      "Cloudiness": 100,
      "Wind Speed": 3.6,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Denver",
@@ -3120,7 +3120,7 @@
      "Humidity": 21,
      "Cloudiness": 89,
      "Wind Speed": 3.72,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Denver",
@@ -3130,7 +3130,7 @@
      "Humidity": 18,
      "Cloudiness": 37,
      "Wind Speed": 0.17,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Denver",
@@ -3140,7 +3140,7 @@
      "Humidity": 11,
      "Cloudiness": 100,
      "Wind Speed": 1.51,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Denver",
@@ -3150,7 +3150,7 @@
      "Humidity": 50,
      "Cloudiness": 93,
      "Wind Speed": 2.34,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Washington",
@@ -3160,7 +3160,7 @@
      "Humidity": 62,
      "Cloudiness": 74,
      "Wind Speed": 1.91,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Washington",
@@ -3170,7 +3170,7 @@
      "Humidity": 79,
      "Cloudiness": 100,
      "Wind Speed": 3.14,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Washington",
@@ -3180,7 +3180,7 @@
      "Humidity": 68,
      "Cloudiness": 100,
      "Wind Speed": 4.58,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Washington",
@@ -3190,7 +3190,7 @@
      "Humidity": 37,
      "Cloudiness": 21,
      "Wind Speed": 2.88,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Washington",
@@ -3200,7 +3200,7 @@
      "Humidity": 55,
      "Cloudiness": 100,
      "Wind Speed": 1.52,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Boston",
@@ -3210,7 +3210,7 @@
      "Humidity": 54,
      "Cloudiness": 25,
      "Wind Speed": 5.33,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Boston",
@@ -3220,7 +3220,7 @@
      "Humidity": 51,
      "Cloudiness": 100,
      "Wind Speed": 2.66,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Boston",
@@ -3230,7 +3230,7 @@
      "Humidity": 56,
      "Cloudiness": 81,
      "Wind Speed": 5.04,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Boston",
@@ -3240,7 +3240,7 @@
      "Humidity": 54,
      "Cloudiness": 34,
      "Wind Speed": 5.14,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Boston",
@@ -3250,7 +3250,7 @@
      "Humidity": 53,
      "Cloudiness": 90,
      "Wind Speed": 2.79,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "El Paso",
@@ -3260,7 +3260,7 @@
      "Humidity": 23,
      "Cloudiness": 13,
      "Wind Speed": 1.97,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "El Paso",
@@ -3270,7 +3270,7 @@
      "Humidity": 14,
      "Cloudiness": 0,
      "Wind Speed": 2.44,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "El Paso",
@@ -3280,7 +3280,7 @@
      "Humidity": 10,
      "Cloudiness": 0,
      "Wind Speed": 4.34,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "El Paso",
@@ -3290,7 +3290,7 @@
      "Humidity": 13,
      "Cloudiness": 0,
      "Wind Speed": 7.48,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "El Paso",
@@ -3300,7 +3300,7 @@
      "Humidity": 12,
      "Cloudiness": 88,
      "Wind Speed": 5.58,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Nashville",
@@ -3310,7 +3310,7 @@
      "Humidity": 48,
      "Cloudiness": 52,
      "Wind Speed": 3.11,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Nashville",
@@ -3320,7 +3320,7 @@
      "Humidity": 50,
      "Cloudiness": 76,
      "Wind Speed": 4.84,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Nashville",
@@ -3330,7 +3330,7 @@
      "Humidity": 34,
      "Cloudiness": 25,
      "Wind Speed": 2.29,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Nashville",
@@ -3340,7 +3340,7 @@
      "Humidity": 68,
      "Cloudiness": 28,
      "Wind Speed": 4.36,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Nashville",
@@ -3350,7 +3350,7 @@
      "Humidity": 59,
      "Cloudiness": 0,
      "Wind Speed": 5.31,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Oklahoma City",
@@ -3360,7 +3360,7 @@
      "Humidity": 29,
      "Cloudiness": 39,
      "Wind Speed": 7.09,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Oklahoma City",
@@ -3370,7 +3370,7 @@
      "Humidity": 33,
      "Cloudiness": 91,
      "Wind Speed": 2.89,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Oklahoma City",
@@ -3380,7 +3380,7 @@
      "Humidity": 37,
      "Cloudiness": 0,
      "Wind Speed": 5.51,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Oklahoma City",
@@ -3390,7 +3390,7 @@
      "Humidity": 40,
      "Cloudiness": 7,
      "Wind Speed": 10.56,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Oklahoma City",
@@ -3400,7 +3400,7 @@
      "Humidity": 43,
      "Cloudiness": 48,
      "Wind Speed": 8.49,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Las Vegas",
@@ -3410,7 +3410,7 @@
      "Humidity": 24,
      "Cloudiness": 16,
      "Wind Speed": 1.04,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Las Vegas",
@@ -3420,7 +3420,7 @@
      "Humidity": 15,
      "Cloudiness": 11,
      "Wind Speed": 0.88,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Las Vegas",
@@ -3430,7 +3430,7 @@
      "Humidity": 14,
      "Cloudiness": 48,
      "Wind Speed": 1.23,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Las Vegas",
@@ -3440,7 +3440,7 @@
      "Humidity": 15,
      "Cloudiness": 100,
      "Wind Speed": 0.41,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Las Vegas",
@@ -3450,7 +3450,7 @@
      "Humidity": 22,
      "Cloudiness": 41,
      "Wind Speed": 2.8,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Detroit",
@@ -3460,7 +3460,7 @@
      "Humidity": 77,
      "Cloudiness": 93,
      "Wind Speed": 5.55,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Detroit",
@@ -3470,7 +3470,7 @@
      "Humidity": 97,
      "Cloudiness": 100,
      "Wind Speed": 3.57,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Detroit",
@@ -3480,7 +3480,7 @@
      "Humidity": 51,
      "Cloudiness": 83,
      "Wind Speed": 4.25,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Detroit",
@@ -3490,7 +3490,7 @@
      "Humidity": 70,
      "Cloudiness": 98,
      "Wind Speed": 3.14,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Detroit",
@@ -3500,7 +3500,7 @@
      "Humidity": 79,
      "Cloudiness": 100,
      "Wind Speed": 6.03,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Portland",
@@ -3510,7 +3510,7 @@
      "Humidity": 91,
      "Cloudiness": 90,
      "Wind Speed": 0.44,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Portland",
@@ -3520,7 +3520,7 @@
      "Humidity": 83,
      "Cloudiness": 100,
      "Wind Speed": 4.74,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Portland",
@@ -3530,7 +3530,7 @@
      "Humidity": 92,
      "Cloudiness": 100,
      "Wind Speed": 7.36,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Portland",
@@ -3540,7 +3540,7 @@
      "Humidity": 71,
      "Cloudiness": 83,
      "Wind Speed": 1.28,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Portland",
@@ -3550,7 +3550,7 @@
      "Humidity": 66,
      "Cloudiness": 100,
      "Wind Speed": 2.78,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Memphis",
@@ -3560,7 +3560,7 @@
      "Humidity": 44,
      "Cloudiness": 3,
      "Wind Speed": 3.31,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Memphis",
@@ -3570,7 +3570,7 @@
      "Humidity": 40,
      "Cloudiness": 89,
      "Wind Speed": 4.58,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Memphis",
@@ -3580,7 +3580,7 @@
      "Humidity": 33,
      "Cloudiness": 2,
      "Wind Speed": 4.28,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Memphis",
@@ -3590,7 +3590,7 @@
      "Humidity": 55,
      "Cloudiness": 6,
      "Wind Speed": 6.13,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Memphis",
@@ -3600,7 +3600,7 @@
      "Humidity": 48,
      "Cloudiness": 1,
      "Wind Speed": 7.85,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Louisville",
@@ -3610,7 +3610,7 @@
      "Humidity": 62,
      "Cloudiness": 92,
      "Wind Speed": 3.73,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Louisville",
@@ -3620,7 +3620,7 @@
      "Humidity": 67,
      "Cloudiness": 87,
      "Wind Speed": 7.16,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Louisville",
@@ -3630,7 +3630,7 @@
      "Humidity": 38,
      "Cloudiness": 87,
      "Wind Speed": 2.77,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Louisville",
@@ -3640,7 +3640,7 @@
      "Humidity": 75,
      "Cloudiness": 90,
      "Wind Speed": 3.5,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Louisville",
@@ -3650,7 +3650,7 @@
      "Humidity": 63,
      "Cloudiness": 10,
      "Wind Speed": 5.99,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Milwaukee",
@@ -3660,7 +3660,7 @@
      "Humidity": 60,
      "Cloudiness": 81,
      "Wind Speed": 5.25,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Milwaukee",
@@ -3670,7 +3670,7 @@
      "Humidity": 81,
      "Cloudiness": 100,
      "Wind Speed": 7.46,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Milwaukee",
@@ -3680,7 +3680,7 @@
      "Humidity": 62,
      "Cloudiness": 100,
      "Wind Speed": 2.89,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Milwaukee",
@@ -3690,7 +3690,7 @@
      "Humidity": 79,
      "Cloudiness": 75,
      "Wind Speed": 5.34,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Milwaukee",
@@ -3700,7 +3700,7 @@
      "Humidity": 70,
      "Cloudiness": 100,
      "Wind Speed": 2.74,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Baltimore",
@@ -3710,7 +3710,7 @@
      "Humidity": 71,
      "Cloudiness": 53,
      "Wind Speed": 6.5,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Baltimore",
@@ -3720,7 +3720,7 @@
      "Humidity": 45,
      "Cloudiness": 68,
      "Wind Speed": 4.75,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Baltimore",
@@ -3730,7 +3730,7 @@
      "Humidity": 47,
      "Cloudiness": 28,
      "Wind Speed": 7.61,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Baltimore",
@@ -3740,7 +3740,7 @@
      "Humidity": 51,
      "Cloudiness": 13,
      "Wind Speed": 2.68,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Baltimore",
@@ -3750,7 +3750,7 @@
      "Humidity": 58,
      "Cloudiness": 19,
      "Wind Speed": 2.11,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Albuquerque",
@@ -3760,7 +3760,7 @@
      "Humidity": 28,
      "Cloudiness": 3,
      "Wind Speed": 3.45,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Albuquerque",
@@ -3770,7 +3770,7 @@
      "Humidity": 17,
      "Cloudiness": 0,
      "Wind Speed": 4.41,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Albuquerque",
@@ -3780,7 +3780,7 @@
      "Humidity": 14,
      "Cloudiness": 53,
      "Wind Speed": 1.96,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Albuquerque",
@@ -3790,7 +3790,7 @@
      "Humidity": 11,
      "Cloudiness": 100,
      "Wind Speed": 2.43,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Albuquerque",
@@ -3800,7 +3800,7 @@
      "Humidity": 19,
      "Cloudiness": 0,
      "Wind Speed": 3.69,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Tucson",
@@ -3810,7 +3810,7 @@
      "Humidity": 14,
      "Cloudiness": 1,
      "Wind Speed": 1.67,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Tucson",
@@ -3820,7 +3820,7 @@
      "Humidity": 10,
      "Cloudiness": 0,
      "Wind Speed": 0.65,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Tucson",
@@ -3830,7 +3830,7 @@
      "Humidity": 10,
      "Cloudiness": 0,
      "Wind Speed": 1.65,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Tucson",
@@ -3840,7 +3840,7 @@
      "Humidity": 12,
      "Cloudiness": 65,
      "Wind Speed": 2.08,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Tucson",
@@ -3850,7 +3850,7 @@
      "Humidity": 15,
      "Cloudiness": 100,
      "Wind Speed": 0.93,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Mesa",
@@ -3860,7 +3860,7 @@
      "Humidity": 19,
      "Cloudiness": 1,
      "Wind Speed": 0.59,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Mesa",
@@ -3870,7 +3870,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 0.78,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Mesa",
@@ -3880,7 +3880,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 0.84,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Mesa",
@@ -3890,7 +3890,7 @@
      "Humidity": 12,
      "Cloudiness": 100,
      "Wind Speed": 1.84,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Mesa",
@@ -3900,7 +3900,7 @@
      "Humidity": 15,
      "Cloudiness": 80,
      "Wind Speed": 1.33,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Fresno",
@@ -3910,7 +3910,7 @@
      "Humidity": 80,
      "Cloudiness": 61,
      "Wind Speed": 2.14,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Fresno",
@@ -3920,7 +3920,7 @@
      "Humidity": 33,
      "Cloudiness": 16,
      "Wind Speed": 0.79,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Fresno",
@@ -3930,7 +3930,7 @@
      "Humidity": 29,
      "Cloudiness": 100,
      "Wind Speed": 0.56,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Fresno",
@@ -3940,7 +3940,7 @@
      "Humidity": 33,
      "Cloudiness": 1,
      "Wind Speed": 4.83,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Fresno",
@@ -3950,7 +3950,7 @@
      "Humidity": 47,
      "Cloudiness": 100,
      "Wind Speed": 0.71,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Sacramento",
@@ -3960,7 +3960,7 @@
      "Humidity": 82,
      "Cloudiness": 61,
      "Wind Speed": 1.39,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Sacramento",
@@ -3970,7 +3970,7 @@
      "Humidity": 43,
      "Cloudiness": 97,
      "Wind Speed": 1.37,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Sacramento",
@@ -3980,7 +3980,7 @@
      "Humidity": 46,
      "Cloudiness": 100,
      "Wind Speed": 1.5,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Sacramento",
@@ -3990,7 +3990,7 @@
      "Humidity": 54,
      "Cloudiness": 0,
      "Wind Speed": 3.3,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Sacramento",
@@ -4000,7 +4000,7 @@
      "Humidity": 57,
      "Cloudiness": 100,
      "Wind Speed": 0.75,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Atlanta",
@@ -4010,7 +4010,7 @@
      "Humidity": 43,
      "Cloudiness": 1,
      "Wind Speed": 5.61,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Atlanta",
@@ -4020,7 +4020,7 @@
      "Humidity": 31,
      "Cloudiness": 0,
      "Wind Speed": 4.7,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Atlanta",
@@ -4030,7 +4030,7 @@
      "Humidity": 24,
      "Cloudiness": 0,
      "Wind Speed": 3.44,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Atlanta",
@@ -4040,7 +4040,7 @@
      "Humidity": 41,
      "Cloudiness": 0,
      "Wind Speed": 2.72,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Atlanta",
@@ -4050,7 +4050,7 @@
      "Humidity": 31,
      "Cloudiness": 0,
      "Wind Speed": 3.39,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Kansas City",
@@ -4060,7 +4060,7 @@
      "Humidity": 51,
      "Cloudiness": 26,
      "Wind Speed": 4.08,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Kansas City",
@@ -4070,7 +4070,7 @@
      "Humidity": 50,
      "Cloudiness": 92,
      "Wind Speed": 5.34,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Kansas City",
@@ -4080,7 +4080,7 @@
      "Humidity": 49,
      "Cloudiness": 74,
      "Wind Speed": 5.73,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Kansas City",
@@ -4090,7 +4090,7 @@
      "Humidity": 65,
      "Cloudiness": 91,
      "Wind Speed": 7.14,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Kansas City",
@@ -4100,7 +4100,7 @@
      "Humidity": 60,
      "Cloudiness": 100,
      "Wind Speed": 6.43,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Colorado Springs",
@@ -4110,7 +4110,7 @@
      "Humidity": 23,
      "Cloudiness": 83,
      "Wind Speed": 6.67,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Colorado Springs",
@@ -4120,7 +4120,7 @@
      "Humidity": 23,
      "Cloudiness": 100,
      "Wind Speed": 2.52,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Colorado Springs",
@@ -4130,7 +4130,7 @@
      "Humidity": 19,
      "Cloudiness": 32,
      "Wind Speed": 0.77,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Colorado Springs",
@@ -4140,7 +4140,7 @@
      "Humidity": 9,
      "Cloudiness": 100,
      "Wind Speed": 4.11,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Colorado Springs",
@@ -4150,7 +4150,7 @@
      "Humidity": 45,
      "Cloudiness": 67,
      "Wind Speed": 3.2,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Raleigh",
@@ -4160,7 +4160,7 @@
      "Humidity": 41,
      "Cloudiness": 1,
      "Wind Speed": 5,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Raleigh",
@@ -4170,7 +4170,7 @@
      "Humidity": 36,
      "Cloudiness": 0,
      "Wind Speed": 4.39,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Raleigh",
@@ -4180,7 +4180,7 @@
      "Humidity": 31,
      "Cloudiness": 2,
      "Wind Speed": 4.59,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Raleigh",
@@ -4190,7 +4190,7 @@
      "Humidity": 31,
      "Cloudiness": 0,
      "Wind Speed": 2.72,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Raleigh",
@@ -4200,7 +4200,7 @@
      "Humidity": 38,
      "Cloudiness": 0,
      "Wind Speed": 3.44,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Omaha",
@@ -4210,7 +4210,7 @@
      "Humidity": 59,
      "Cloudiness": 83,
      "Wind Speed": 4.84,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Omaha",
@@ -4220,7 +4220,7 @@
      "Humidity": 58,
      "Cloudiness": 95,
      "Wind Speed": 3.44,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Omaha",
@@ -4230,7 +4230,7 @@
      "Humidity": 47,
      "Cloudiness": 90,
      "Wind Speed": 1.8,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Omaha",
@@ -4240,7 +4240,7 @@
      "Humidity": 41,
      "Cloudiness": 72,
      "Wind Speed": 6.39,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Omaha",
@@ -4250,7 +4250,7 @@
      "Humidity": 32,
      "Cloudiness": 100,
      "Wind Speed": 5.8,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Miami",
@@ -4260,7 +4260,7 @@
      "Humidity": 63,
      "Cloudiness": 79,
      "Wind Speed": 3.69,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Miami",
@@ -4270,7 +4270,7 @@
      "Humidity": 48,
      "Cloudiness": 100,
      "Wind Speed": 2.78,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Miami",
@@ -4280,7 +4280,7 @@
      "Humidity": 50,
      "Cloudiness": 97,
      "Wind Speed": 7.67,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Miami",
@@ -4290,7 +4290,7 @@
      "Humidity": 57,
      "Cloudiness": 64,
      "Wind Speed": 8.33,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Miami",
@@ -4300,7 +4300,7 @@
      "Humidity": 63,
      "Cloudiness": 100,
      "Wind Speed": 8.69,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Long Beach",
@@ -4310,7 +4310,7 @@
      "Humidity": 33,
      "Cloudiness": 1,
      "Wind Speed": 2.81,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Long Beach",
@@ -4320,7 +4320,7 @@
      "Humidity": 27,
      "Cloudiness": 0,
      "Wind Speed": 2.36,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Long Beach",
@@ -4330,7 +4330,7 @@
      "Humidity": 36,
      "Cloudiness": 5,
      "Wind Speed": 2,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Long Beach",
@@ -4340,7 +4340,7 @@
      "Humidity": 56,
      "Cloudiness": 100,
      "Wind Speed": 2.71,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Long Beach",
@@ -4350,7 +4350,7 @@
      "Humidity": 65,
      "Cloudiness": 11,
      "Wind Speed": 2.7,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Virginia Beach",
@@ -4360,7 +4360,7 @@
      "Humidity": 46,
      "Cloudiness": 5,
      "Wind Speed": 8.23,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Virginia Beach",
@@ -4370,7 +4370,7 @@
      "Humidity": 41,
      "Cloudiness": 1,
      "Wind Speed": 5.3,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Virginia Beach",
@@ -4380,7 +4380,7 @@
      "Humidity": 40,
      "Cloudiness": 3,
      "Wind Speed": 8.31,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Virginia Beach",
@@ -4390,7 +4390,7 @@
      "Humidity": 39,
      "Cloudiness": 6,
      "Wind Speed": 3.47,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Virginia Beach",
@@ -4400,7 +4400,7 @@
      "Humidity": 55,
      "Cloudiness": 0,
      "Wind Speed": 4.36,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Oakland",
@@ -4410,7 +4410,7 @@
      "Humidity": 78,
      "Cloudiness": 93,
      "Wind Speed": 5.7,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Oakland",
@@ -4420,7 +4420,7 @@
      "Humidity": 99,
      "Cloudiness": 100,
      "Wind Speed": 2.46,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Oakland",
@@ -4430,7 +4430,7 @@
      "Humidity": 67,
      "Cloudiness": 88,
      "Wind Speed": 3.57,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Oakland",
@@ -4440,7 +4440,7 @@
      "Humidity": 74,
      "Cloudiness": 97,
      "Wind Speed": 3.36,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Oakland",
@@ -4450,7 +4450,7 @@
      "Humidity": 88,
      "Cloudiness": 100,
      "Wind Speed": 5.98,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Minneapolis",
@@ -4460,7 +4460,7 @@
      "Humidity": 74,
      "Cloudiness": 93,
      "Wind Speed": 2.89,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Minneapolis",
@@ -4470,7 +4470,7 @@
      "Humidity": 85,
      "Cloudiness": 94,
      "Wind Speed": 3.81,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Minneapolis",
@@ -4480,7 +4480,7 @@
      "Humidity": 99,
      "Cloudiness": 100,
      "Wind Speed": 3.45,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Minneapolis",
@@ -4490,7 +4490,7 @@
      "Humidity": 83,
      "Cloudiness": 99,
      "Wind Speed": 5.31,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Minneapolis",
@@ -4500,7 +4500,7 @@
      "Humidity": 49,
      "Cloudiness": 27,
      "Wind Speed": 5.06,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Tampa",
@@ -4510,7 +4510,7 @@
      "Humidity": 78,
      "Cloudiness": 71,
      "Wind Speed": 5.45,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Tampa",
@@ -4520,7 +4520,7 @@
      "Humidity": 50,
      "Cloudiness": 11,
      "Wind Speed": 5.85,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Tampa",
@@ -4530,7 +4530,7 @@
      "Humidity": 40,
      "Cloudiness": 3,
      "Wind Speed": 3.82,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Tampa",
@@ -4540,7 +4540,7 @@
      "Humidity": 42,
      "Cloudiness": 0,
      "Wind Speed": 4.33,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Tampa",
@@ -4550,7 +4550,7 @@
      "Humidity": 55,
      "Cloudiness": 100,
      "Wind Speed": 6,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Tulsa",
@@ -4560,7 +4560,7 @@
      "Humidity": 41,
      "Cloudiness": 16,
      "Wind Speed": 4.11,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Tulsa",
@@ -4570,7 +4570,7 @@
      "Humidity": 35,
      "Cloudiness": 100,
      "Wind Speed": 3.52,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Tulsa",
@@ -4580,7 +4580,7 @@
      "Humidity": 47,
      "Cloudiness": 0,
      "Wind Speed": 5.71,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Tulsa",
@@ -4590,7 +4590,7 @@
      "Humidity": 56,
      "Cloudiness": 70,
      "Wind Speed": 9.29,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Tulsa",
@@ -4600,7 +4600,7 @@
      "Humidity": 39,
      "Cloudiness": 0,
      "Wind Speed": 6.96,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Arlington",
@@ -4610,7 +4610,7 @@
      "Humidity": 27,
      "Cloudiness": 1,
      "Wind Speed": 2.48,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Arlington",
@@ -4620,7 +4620,7 @@
      "Humidity": 31,
      "Cloudiness": 19,
      "Wind Speed": 1.52,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Arlington",
@@ -4630,7 +4630,7 @@
      "Humidity": 36,
      "Cloudiness": 4,
      "Wind Speed": 4.36,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Arlington",
@@ -4640,7 +4640,7 @@
      "Humidity": 41,
      "Cloudiness": 0,
      "Wind Speed": 7.96,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Arlington",
@@ -4650,7 +4650,7 @@
      "Humidity": 36,
      "Cloudiness": 0,
      "Wind Speed": 6.54,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Wichita",
@@ -4660,7 +4660,7 @@
      "Humidity": 35,
      "Cloudiness": 83,
      "Wind Speed": 5.88,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Wichita",
@@ -4670,7 +4670,7 @@
      "Humidity": 29,
      "Cloudiness": 98,
      "Wind Speed": 1.98,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Wichita",
@@ -4680,7 +4680,7 @@
      "Humidity": 37,
      "Cloudiness": 0,
      "Wind Speed": 5.54,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Wichita",
@@ -4690,7 +4690,7 @@
      "Humidity": 46,
      "Cloudiness": 100,
      "Wind Speed": 7.01,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Wichita",
@@ -4700,7 +4700,7 @@
      "Humidity": 33,
      "Cloudiness": 100,
      "Wind Speed": 8.31,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Bakersfield",
@@ -4710,7 +4710,7 @@
      "Humidity": 64,
      "Cloudiness": 2,
      "Wind Speed": 0.93,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Bakersfield",
@@ -4720,7 +4720,7 @@
      "Humidity": 29,
      "Cloudiness": 2,
      "Wind Speed": 1.63,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Bakersfield",
@@ -4730,7 +4730,7 @@
      "Humidity": 24,
      "Cloudiness": 91,
      "Wind Speed": 0.47,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Bakersfield",
@@ -4740,7 +4740,7 @@
      "Humidity": 35,
      "Cloudiness": 20,
      "Wind Speed": 2.33,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Bakersfield",
@@ -4750,7 +4750,7 @@
      "Humidity": 37,
      "Cloudiness": 45,
      "Wind Speed": 1.63,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Aurora",
@@ -4760,7 +4760,7 @@
      "Humidity": 23,
      "Cloudiness": 83,
      "Wind Speed": 5.75,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Aurora",
@@ -4770,7 +4770,7 @@
      "Humidity": 21,
      "Cloudiness": 49,
      "Wind Speed": 6.74,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Aurora",
@@ -4780,7 +4780,7 @@
      "Humidity": 16,
      "Cloudiness": 17,
      "Wind Speed": 1.71,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Aurora",
@@ -4790,7 +4790,7 @@
      "Humidity": 11,
      "Cloudiness": 100,
      "Wind Speed": 1.48,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Aurora",
@@ -4800,7 +4800,7 @@
      "Humidity": 54,
      "Cloudiness": 89,
      "Wind Speed": 2.17,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "New Orleans",
@@ -4810,7 +4810,7 @@
      "Humidity": 46,
      "Cloudiness": 1,
      "Wind Speed": 6.24,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "New Orleans",
@@ -4820,7 +4820,7 @@
      "Humidity": 36,
      "Cloudiness": 0,
      "Wind Speed": 2.25,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "New Orleans",
@@ -4830,7 +4830,7 @@
      "Humidity": 43,
      "Cloudiness": 1,
      "Wind Speed": 0.75,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "New Orleans",
@@ -4840,7 +4840,7 @@
      "Humidity": 49,
      "Cloudiness": 0,
      "Wind Speed": 3.09,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "New Orleans",
@@ -4850,7 +4850,7 @@
      "Humidity": 63,
      "Cloudiness": 100,
      "Wind Speed": 3.29,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Cleveland",
@@ -4860,7 +4860,7 @@
      "Humidity": 72,
      "Cloudiness": 93,
      "Wind Speed": 9.23,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Cleveland",
@@ -4870,7 +4870,7 @@
      "Humidity": 97,
      "Cloudiness": 100,
      "Wind Speed": 6.83,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Cleveland",
@@ -4880,7 +4880,7 @@
      "Humidity": 61,
      "Cloudiness": 100,
      "Wind Speed": 6.47,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Cleveland",
@@ -4890,7 +4890,7 @@
      "Humidity": 66,
      "Cloudiness": 59,
      "Wind Speed": 3.79,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Cleveland",
@@ -4900,7 +4900,7 @@
      "Humidity": 73,
      "Cloudiness": 100,
      "Wind Speed": 6.88,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Anaheim",
@@ -4910,7 +4910,7 @@
      "Humidity": 24,
      "Cloudiness": 1,
      "Wind Speed": 2.37,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Anaheim",
@@ -4920,7 +4920,7 @@
      "Humidity": 16,
      "Cloudiness": 0,
      "Wind Speed": 2.13,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Anaheim",
@@ -4930,7 +4930,7 @@
      "Humidity": 23,
      "Cloudiness": 4,
      "Wind Speed": 2.31,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Anaheim",
@@ -4940,7 +4940,7 @@
      "Humidity": 37,
      "Cloudiness": 100,
      "Wind Speed": 3.04,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Anaheim",
@@ -4950,7 +4950,7 @@
      "Humidity": 45,
      "Cloudiness": 13,
      "Wind Speed": 2.68,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Henderson",
@@ -4960,7 +4960,7 @@
      "Humidity": 24,
      "Cloudiness": 16,
      "Wind Speed": 1.73,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Henderson",
@@ -4970,7 +4970,7 @@
      "Humidity": 16,
      "Cloudiness": 7,
      "Wind Speed": 1.42,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Henderson",
@@ -4980,7 +4980,7 @@
      "Humidity": 12,
      "Cloudiness": 39,
      "Wind Speed": 0.54,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Henderson",
@@ -4990,7 +4990,7 @@
      "Humidity": 14,
      "Cloudiness": 100,
      "Wind Speed": 3.06,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Henderson",
@@ -5000,7 +5000,7 @@
      "Humidity": 21,
      "Cloudiness": 47,
      "Wind Speed": 3.71,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Honolulu",
@@ -5010,7 +5010,7 @@
      "Humidity": 69,
      "Cloudiness": 58,
      "Wind Speed": 2.94,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Honolulu",
@@ -5020,7 +5020,7 @@
      "Humidity": 72,
      "Cloudiness": 99,
      "Wind Speed": 2,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Honolulu",
@@ -5030,7 +5030,7 @@
      "Humidity": 75,
      "Cloudiness": 73,
      "Wind Speed": 3.54,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Honolulu",
@@ -5040,7 +5040,7 @@
      "Humidity": 73,
      "Cloudiness": 79,
      "Wind Speed": 3.12,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Honolulu",
@@ -5050,7 +5050,7 @@
      "Humidity": 80,
      "Cloudiness": 100,
      "Wind Speed": 4.35,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Riverside",
@@ -5060,7 +5060,7 @@
      "Humidity": 17,
      "Cloudiness": 1,
      "Wind Speed": 0.31,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Riverside",
@@ -5070,7 +5070,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 0.95,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Riverside",
@@ -5080,7 +5080,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 2.08,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Riverside",
@@ -5090,7 +5090,7 @@
      "Humidity": 13,
      "Cloudiness": 100,
      "Wind Speed": 2.37,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Riverside",
@@ -5100,7 +5100,7 @@
      "Humidity": 14,
      "Cloudiness": 84,
      "Wind Speed": 1.93,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Santa Ana",
@@ -5110,7 +5110,7 @@
      "Humidity": 25,
      "Cloudiness": 1,
      "Wind Speed": 2.4,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Santa Ana",
@@ -5120,7 +5120,7 @@
      "Humidity": 18,
      "Cloudiness": 0,
      "Wind Speed": 2.14,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Santa Ana",
@@ -5130,7 +5130,7 @@
      "Humidity": 26,
      "Cloudiness": 2,
      "Wind Speed": 2.33,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Santa Ana",
@@ -5140,7 +5140,7 @@
      "Humidity": 39,
      "Cloudiness": 100,
      "Wind Speed": 3.1,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Santa Ana",
@@ -5150,7 +5150,7 @@
      "Humidity": 47,
      "Cloudiness": 18,
      "Wind Speed": 2.61,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Corpus Christi",
@@ -5160,7 +5160,7 @@
      "Humidity": 33,
      "Cloudiness": 13,
      "Wind Speed": 4.51,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Corpus Christi",
@@ -5170,7 +5170,7 @@
      "Humidity": 53,
      "Cloudiness": 0,
      "Wind Speed": 5.61,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Corpus Christi",
@@ -5180,7 +5180,7 @@
      "Humidity": 60,
      "Cloudiness": 3,
      "Wind Speed": 6.66,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Corpus Christi",
@@ -5190,7 +5190,7 @@
      "Humidity": 56,
      "Cloudiness": 0,
      "Wind Speed": 8.46,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Corpus Christi",
@@ -5200,7 +5200,7 @@
      "Humidity": 57,
      "Cloudiness": 100,
      "Wind Speed": 7.08,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Lexington",
@@ -5210,7 +5210,7 @@
      "Humidity": 61,
      "Cloudiness": 92,
      "Wind Speed": 5.15,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Lexington",
@@ -5220,7 +5220,7 @@
      "Humidity": 73,
      "Cloudiness": 98,
      "Wind Speed": 7.59,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Lexington",
@@ -5230,7 +5230,7 @@
      "Humidity": 51,
      "Cloudiness": 63,
      "Wind Speed": 3.69,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Lexington",
@@ -5240,7 +5240,7 @@
      "Humidity": 83,
      "Cloudiness": 100,
      "Wind Speed": 4.37,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Lexington",
@@ -5250,7 +5250,7 @@
      "Humidity": 70,
      "Cloudiness": 14,
      "Wind Speed": 7.54,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "San Juan",
@@ -5260,7 +5260,7 @@
      "Humidity": 39,
      "Cloudiness": 0,
      "Wind Speed": 11.72,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "San Juan",
@@ -5270,7 +5270,7 @@
      "Humidity": 21,
      "Cloudiness": 0,
      "Wind Speed": 7.38,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "San Juan",
@@ -5280,7 +5280,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 7.67,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "San Juan",
@@ -5290,7 +5290,7 @@
      "Humidity": 24,
      "Cloudiness": 0,
      "Wind Speed": 6.32,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "San Juan",
@@ -5300,7 +5300,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 2.92,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Stockton",
@@ -5310,7 +5310,7 @@
      "Humidity": 82,
      "Cloudiness": 61,
      "Wind Speed": 1.34,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Stockton",
@@ -5320,7 +5320,7 @@
      "Humidity": 41,
      "Cloudiness": 62,
      "Wind Speed": 0.8,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Stockton",
@@ -5330,7 +5330,7 @@
      "Humidity": 42,
      "Cloudiness": 100,
      "Wind Speed": 0.57,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Stockton",
@@ -5340,7 +5340,7 @@
      "Humidity": 51,
      "Cloudiness": 0,
      "Wind Speed": 4.6,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Stockton",
@@ -5350,7 +5350,7 @@
      "Humidity": 46,
      "Cloudiness": 75,
      "Wind Speed": 0.26,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "St. Paul",
@@ -5360,7 +5360,7 @@
      "Humidity": 73,
      "Cloudiness": 93,
      "Wind Speed": 3.24,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "St. Paul",
@@ -5370,7 +5370,7 @@
      "Humidity": 85,
      "Cloudiness": 73,
      "Wind Speed": 4.11,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "St. Paul",
@@ -5380,7 +5380,7 @@
      "Humidity": 98,
      "Cloudiness": 100,
      "Wind Speed": 3.62,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "St. Paul",
@@ -5390,7 +5390,7 @@
      "Humidity": 87,
      "Cloudiness": 99,
      "Wind Speed": 6.02,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "St. Paul",
@@ -5400,7 +5400,7 @@
      "Humidity": 49,
      "Cloudiness": 60,
      "Wind Speed": 5.41,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Cincinnati",
@@ -5410,7 +5410,7 @@
      "Humidity": 68,
      "Cloudiness": 93,
      "Wind Speed": 4.27,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Cincinnati",
@@ -5420,7 +5420,7 @@
      "Humidity": 91,
      "Cloudiness": 100,
      "Wind Speed": 5.39,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Cincinnati",
@@ -5430,7 +5430,7 @@
      "Humidity": 51,
      "Cloudiness": 23,
      "Wind Speed": 2.94,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Cincinnati",
@@ -5440,7 +5440,7 @@
      "Humidity": 74,
      "Cloudiness": 76,
      "Wind Speed": 2.79,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Cincinnati",
@@ -5450,7 +5450,7 @@
      "Humidity": 68,
      "Cloudiness": 93,
      "Wind Speed": 6.04,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Greensboro",
@@ -5460,7 +5460,7 @@
      "Humidity": 40,
      "Cloudiness": 14,
      "Wind Speed": 4.16,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Greensboro",
@@ -5470,7 +5470,7 @@
      "Humidity": 37,
      "Cloudiness": 0,
      "Wind Speed": 4.58,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Greensboro",
@@ -5480,7 +5480,7 @@
      "Humidity": 32,
      "Cloudiness": 17,
      "Wind Speed": 3.43,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Greensboro",
@@ -5490,7 +5490,7 @@
      "Humidity": 33,
      "Cloudiness": 0,
      "Wind Speed": 2.76,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Greensboro",
@@ -5500,7 +5500,7 @@
      "Humidity": 42,
      "Cloudiness": 0,
      "Wind Speed": 3.83,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Pittsburgh",
@@ -5510,7 +5510,7 @@
      "Humidity": 73,
      "Cloudiness": 93,
      "Wind Speed": 5.1,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Pittsburgh",
@@ -5520,7 +5520,7 @@
      "Humidity": 96,
      "Cloudiness": 100,
      "Wind Speed": 4.05,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Pittsburgh",
@@ -5530,7 +5530,7 @@
      "Humidity": 71,
      "Cloudiness": 38,
      "Wind Speed": 4.7,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Pittsburgh",
@@ -5540,7 +5540,7 @@
      "Humidity": 62,
      "Cloudiness": 35,
      "Wind Speed": 2.09,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Pittsburgh",
@@ -5550,7 +5550,7 @@
      "Humidity": 69,
      "Cloudiness": 94,
      "Wind Speed": 4.38,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Irvine",
@@ -5560,7 +5560,7 @@
      "Humidity": 29,
      "Cloudiness": 1,
      "Wind Speed": 2.08,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Irvine",
@@ -5570,7 +5570,7 @@
      "Humidity": 26,
      "Cloudiness": 0,
      "Wind Speed": 2.32,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Irvine",
@@ -5580,7 +5580,7 @@
      "Humidity": 35,
      "Cloudiness": 2,
      "Wind Speed": 2.45,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Irvine",
@@ -5590,7 +5590,7 @@
      "Humidity": 47,
      "Cloudiness": 100,
      "Wind Speed": 3.16,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Irvine",
@@ -5600,7 +5600,7 @@
      "Humidity": 54,
      "Cloudiness": 39,
      "Wind Speed": 2.44,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "St. Louis",
@@ -5610,7 +5610,7 @@
      "Humidity": 61,
      "Cloudiness": 82,
      "Wind Speed": 3.99,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "St. Louis",
@@ -5620,7 +5620,7 @@
      "Humidity": 39,
      "Cloudiness": 56,
      "Wind Speed": 7.45,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "St. Louis",
@@ -5630,7 +5630,7 @@
      "Humidity": 41,
      "Cloudiness": 91,
      "Wind Speed": 5.04,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "St. Louis",
@@ -5640,7 +5640,7 @@
      "Humidity": 58,
      "Cloudiness": 8,
      "Wind Speed": 5.38,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "St. Louis",
@@ -5650,7 +5650,7 @@
      "Humidity": 71,
      "Cloudiness": 100,
      "Wind Speed": 5.73,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Lincoln",
@@ -5660,7 +5660,7 @@
      "Humidity": 47,
      "Cloudiness": 46,
      "Wind Speed": 5.26,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Lincoln",
@@ -5670,7 +5670,7 @@
      "Humidity": 46,
      "Cloudiness": 84,
      "Wind Speed": 3.25,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Lincoln",
@@ -5680,7 +5680,7 @@
      "Humidity": 47,
      "Cloudiness": 100,
      "Wind Speed": 3.6,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Lincoln",
@@ -5690,7 +5690,7 @@
      "Humidity": 35,
      "Cloudiness": 52,
      "Wind Speed": 6.01,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Lincoln",
@@ -5700,7 +5700,7 @@
      "Humidity": 29,
      "Cloudiness": 100,
      "Wind Speed": 6.45,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Orlando",
@@ -5710,7 +5710,7 @@
      "Humidity": 64,
      "Cloudiness": 26,
      "Wind Speed": 5.43,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Orlando",
@@ -5720,7 +5720,7 @@
      "Humidity": 37,
      "Cloudiness": 44,
      "Wind Speed": 3.73,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Orlando",
@@ -5730,7 +5730,7 @@
      "Humidity": 34,
      "Cloudiness": 0,
      "Wind Speed": 2.99,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Orlando",
@@ -5740,7 +5740,7 @@
      "Humidity": 41,
      "Cloudiness": 0,
      "Wind Speed": 4.42,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Orlando",
@@ -5750,7 +5750,7 @@
      "Humidity": 54,
      "Cloudiness": 100,
      "Wind Speed": 5.18,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Durham",
@@ -5760,7 +5760,7 @@
      "Humidity": 40,
      "Cloudiness": 2,
      "Wind Speed": 4.49,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Durham",
@@ -5770,7 +5770,7 @@
      "Humidity": 38,
      "Cloudiness": 0,
      "Wind Speed": 4.13,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Durham",
@@ -5780,7 +5780,7 @@
      "Humidity": 32,
      "Cloudiness": 4,
      "Wind Speed": 4.15,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Durham",
@@ -5790,7 +5790,7 @@
      "Humidity": 34,
      "Cloudiness": 0,
      "Wind Speed": 2.6,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Durham",
@@ -5800,7 +5800,7 @@
      "Humidity": 42,
      "Cloudiness": 0,
      "Wind Speed": 3.21,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Plano",
@@ -5810,7 +5810,7 @@
      "Humidity": 31,
      "Cloudiness": 1,
      "Wind Speed": 2.16,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Plano",
@@ -5820,7 +5820,7 @@
      "Humidity": 39,
      "Cloudiness": 48,
      "Wind Speed": 1.33,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Plano",
@@ -5830,7 +5830,7 @@
      "Humidity": 42,
      "Cloudiness": 6,
      "Wind Speed": 4.56,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Plano",
@@ -5840,7 +5840,7 @@
      "Humidity": 48,
      "Cloudiness": 0,
      "Wind Speed": 8.56,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Plano",
@@ -5850,7 +5850,7 @@
      "Humidity": 42,
      "Cloudiness": 0,
      "Wind Speed": 7.12,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Anchorage",
@@ -5860,7 +5860,7 @@
      "Humidity": 82,
      "Cloudiness": 4,
      "Wind Speed": 3.24,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Anchorage",
@@ -5870,7 +5870,7 @@
      "Humidity": 75,
      "Cloudiness": 14,
      "Wind Speed": 2.37,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Anchorage",
@@ -5880,7 +5880,7 @@
      "Humidity": 76,
      "Cloudiness": 17,
      "Wind Speed": 2.23,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Anchorage",
@@ -5890,7 +5890,7 @@
      "Humidity": 73,
      "Cloudiness": 12,
      "Wind Speed": 2.47,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Anchorage",
@@ -5900,7 +5900,7 @@
      "Humidity": 69,
      "Cloudiness": 26,
      "Wind Speed": 5.11,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Newark",
@@ -5910,7 +5910,7 @@
      "Humidity": 65,
      "Cloudiness": 49,
      "Wind Speed": 7.27,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Newark",
@@ -5920,7 +5920,7 @@
      "Humidity": 48,
      "Cloudiness": 75,
      "Wind Speed": 3.94,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Newark",
@@ -5930,7 +5930,7 @@
      "Humidity": 50,
      "Cloudiness": 73,
      "Wind Speed": 5.97,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Newark",
@@ -5940,7 +5940,7 @@
      "Humidity": 42,
      "Cloudiness": 18,
      "Wind Speed": 4.65,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Newark",
@@ -5950,7 +5950,7 @@
      "Humidity": 57,
      "Cloudiness": 100,
      "Wind Speed": 1.39,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Chula Vista",
@@ -5960,7 +5960,7 @@
      "Humidity": 30,
      "Cloudiness": 1,
      "Wind Speed": 2.13,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Chula Vista",
@@ -5970,7 +5970,7 @@
      "Humidity": 28,
      "Cloudiness": 0,
      "Wind Speed": 3.72,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Chula Vista",
@@ -5980,7 +5980,7 @@
      "Humidity": 31,
      "Cloudiness": 0,
      "Wind Speed": 2.65,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Chula Vista",
@@ -5990,7 +5990,7 @@
      "Humidity": 47,
      "Cloudiness": 100,
      "Wind Speed": 2.83,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Chula Vista",
@@ -6000,7 +6000,7 @@
      "Humidity": 58,
      "Cloudiness": 97,
      "Wind Speed": 3.13,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Fort Wayne",
@@ -6010,7 +6010,7 @@
      "Humidity": 74,
      "Cloudiness": 93,
      "Wind Speed": 6.83,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Fort Wayne",
@@ -6020,7 +6020,7 @@
      "Humidity": 84,
      "Cloudiness": 100,
      "Wind Speed": 7.43,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Fort Wayne",
@@ -6030,7 +6030,7 @@
      "Humidity": 64,
      "Cloudiness": 100,
      "Wind Speed": 4.05,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Fort Wayne",
@@ -6040,7 +6040,7 @@
      "Humidity": 76,
      "Cloudiness": 55,
      "Wind Speed": 3.36,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Fort Wayne",
@@ -6050,7 +6050,7 @@
      "Humidity": 75,
      "Cloudiness": 100,
      "Wind Speed": 8.06,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Chandler",
@@ -6060,7 +6060,7 @@
      "Humidity": 19,
      "Cloudiness": 1,
      "Wind Speed": 0.86,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Chandler",
@@ -6070,7 +6070,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 1.46,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Chandler",
@@ -6080,7 +6080,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 1.13,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Chandler",
@@ -6090,7 +6090,7 @@
      "Humidity": 12,
      "Cloudiness": 100,
      "Wind Speed": 1.65,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Chandler",
@@ -6100,7 +6100,7 @@
      "Humidity": 15,
      "Cloudiness": 65,
      "Wind Speed": 0.88,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Toledo",
@@ -6110,7 +6110,7 @@
      "Humidity": 61,
      "Cloudiness": 41,
      "Wind Speed": 1.06,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Toledo",
@@ -6120,7 +6120,7 @@
      "Humidity": 49,
      "Cloudiness": 0,
      "Wind Speed": 2.55,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Toledo",
@@ -6130,7 +6130,7 @@
      "Humidity": 67,
      "Cloudiness": 2,
      "Wind Speed": 1.35,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Toledo",
@@ -6140,7 +6140,7 @@
      "Humidity": 61,
      "Cloudiness": 0,
      "Wind Speed": 1.95,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Toledo",
@@ -6150,7 +6150,7 @@
      "Humidity": 65,
      "Cloudiness": 0,
      "Wind Speed": 4.31,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "St. Petersburg",
@@ -6160,7 +6160,7 @@
      "Humidity": 86,
      "Cloudiness": 93,
      "Wind Speed": 1.88,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "St. Petersburg",
@@ -6170,7 +6170,7 @@
      "Humidity": 81,
      "Cloudiness": 6,
      "Wind Speed": 3.97,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "St. Petersburg",
@@ -6180,7 +6180,7 @@
      "Humidity": 76,
      "Cloudiness": 64,
      "Wind Speed": 4.49,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "St. Petersburg",
@@ -6190,7 +6190,7 @@
      "Humidity": 94,
      "Cloudiness": 100,
      "Wind Speed": 2.83,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "St. Petersburg",
@@ -6200,7 +6200,7 @@
      "Humidity": 90,
      "Cloudiness": 38,
      "Wind Speed": 3.96,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Reno",
@@ -6210,7 +6210,7 @@
      "Humidity": 50,
      "Cloudiness": 36,
      "Wind Speed": 1.26,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Reno",
@@ -6220,7 +6220,7 @@
      "Humidity": 29,
      "Cloudiness": 100,
      "Wind Speed": 0.51,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Reno",
@@ -6230,7 +6230,7 @@
      "Humidity": 25,
      "Cloudiness": 100,
      "Wind Speed": 3.15,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Reno",
@@ -6240,7 +6240,7 @@
      "Humidity": 39,
      "Cloudiness": 2,
      "Wind Speed": 2.29,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Reno",
@@ -6250,7 +6250,7 @@
      "Humidity": 41,
      "Cloudiness": 100,
      "Wind Speed": 2.42,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Laredo",
@@ -6260,7 +6260,7 @@
      "Humidity": 22,
      "Cloudiness": 1,
      "Wind Speed": 4.11,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Laredo",
@@ -6270,7 +6270,7 @@
      "Humidity": 41,
      "Cloudiness": 0,
      "Wind Speed": 4.75,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Laredo",
@@ -6280,7 +6280,7 @@
      "Humidity": 34,
      "Cloudiness": 0,
      "Wind Speed": 5.68,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Laredo",
@@ -6290,7 +6290,7 @@
      "Humidity": 29,
      "Cloudiness": 0,
      "Wind Speed": 7.7,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Laredo",
@@ -6300,7 +6300,7 @@
      "Humidity": 29,
      "Cloudiness": 97,
      "Wind Speed": 6.68,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Scottsdale",
@@ -6310,7 +6310,7 @@
      "Humidity": 19,
      "Cloudiness": 1,
      "Wind Speed": 0.63,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Scottsdale",
@@ -6320,7 +6320,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 0.48,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Scottsdale",
@@ -6330,7 +6330,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 0.69,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Scottsdale",
@@ -6340,7 +6340,7 @@
      "Humidity": 12,
      "Cloudiness": 100,
      "Wind Speed": 1.83,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Scottsdale",
@@ -6350,7 +6350,7 @@
      "Humidity": 15,
      "Cloudiness": 87,
      "Wind Speed": 1.61,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "North Las Vegas",
@@ -6360,7 +6360,7 @@
      "Humidity": 23,
      "Cloudiness": 17,
      "Wind Speed": 1.07,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "North Las Vegas",
@@ -6370,7 +6370,7 @@
      "Humidity": 15,
      "Cloudiness": 13,
      "Wind Speed": 0.84,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "North Las Vegas",
@@ -6380,7 +6380,7 @@
      "Humidity": 14,
      "Cloudiness": 47,
      "Wind Speed": 1.23,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "North Las Vegas",
@@ -6390,7 +6390,7 @@
      "Humidity": 15,
      "Cloudiness": 100,
      "Wind Speed": 0.33,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "North Las Vegas",
@@ -6400,7 +6400,7 @@
      "Humidity": 22,
      "Cloudiness": 39,
      "Wind Speed": 3.01,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Lubbock",
@@ -6410,7 +6410,7 @@
      "Humidity": 26,
      "Cloudiness": 1,
      "Wind Speed": 9.22,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Lubbock",
@@ -6420,7 +6420,7 @@
      "Humidity": 26,
      "Cloudiness": 84,
      "Wind Speed": 2.57,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Lubbock",
@@ -6430,7 +6430,7 @@
      "Humidity": 9,
      "Cloudiness": 5,
      "Wind Speed": 5.83,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Lubbock",
@@ -6440,7 +6440,7 @@
      "Humidity": 6,
      "Cloudiness": 1,
      "Wind Speed": 8.27,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Lubbock",
@@ -6450,7 +6450,7 @@
      "Humidity": 20,
      "Cloudiness": 54,
      "Wind Speed": 7.55,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Madison",
@@ -6460,7 +6460,7 @@
      "Humidity": 47,
      "Cloudiness": 1,
      "Wind Speed": 4.28,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Madison",
@@ -6470,7 +6470,7 @@
      "Humidity": 49,
      "Cloudiness": 12,
      "Wind Speed": 4.9,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Madison",
@@ -6480,7 +6480,7 @@
      "Humidity": 37,
      "Cloudiness": 6,
      "Wind Speed": 1.17,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Madison",
@@ -6490,7 +6490,7 @@
      "Humidity": 63,
      "Cloudiness": 0,
      "Wind Speed": 3.96,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Madison",
@@ -6500,7 +6500,7 @@
      "Humidity": 59,
      "Cloudiness": 3,
      "Wind Speed": 4.78,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Gilbert",
@@ -6510,7 +6510,7 @@
      "Humidity": 19,
      "Cloudiness": 1,
      "Wind Speed": 0.79,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Gilbert",
@@ -6520,7 +6520,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 1.17,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Gilbert",
@@ -6530,7 +6530,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 1.07,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Gilbert",
@@ -6540,7 +6540,7 @@
      "Humidity": 12,
      "Cloudiness": 100,
      "Wind Speed": 1.88,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Gilbert",
@@ -6550,7 +6550,7 @@
      "Humidity": 16,
      "Cloudiness": 72,
      "Wind Speed": 1.12,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Jersey City",
@@ -6560,7 +6560,7 @@
      "Humidity": 65,
      "Cloudiness": 51,
      "Wind Speed": 8.09,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Jersey City",
@@ -6570,7 +6570,7 @@
      "Humidity": 47,
      "Cloudiness": 74,
      "Wind Speed": 4.26,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Jersey City",
@@ -6580,7 +6580,7 @@
      "Humidity": 50,
      "Cloudiness": 77,
      "Wind Speed": 6.66,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Jersey City",
@@ -6590,7 +6590,7 @@
      "Humidity": 41,
      "Cloudiness": 13,
      "Wind Speed": 5.14,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Jersey City",
@@ -6600,7 +6600,7 @@
      "Humidity": 61,
      "Cloudiness": 100,
      "Wind Speed": 1.91,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Glendale",
@@ -6610,7 +6610,7 @@
      "Humidity": 18,
      "Cloudiness": 1,
      "Wind Speed": 0.58,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Glendale",
@@ -6620,7 +6620,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 0.82,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Glendale",
@@ -6630,7 +6630,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 0.3,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Glendale",
@@ -6640,7 +6640,7 @@
      "Humidity": 12,
      "Cloudiness": 100,
      "Wind Speed": 1.15,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Glendale",
@@ -6650,7 +6650,7 @@
      "Humidity": 14,
      "Cloudiness": 84,
      "Wind Speed": 1.44,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Buffalo",
@@ -6660,7 +6660,7 @@
      "Humidity": 79,
      "Cloudiness": 76,
      "Wind Speed": 6.93,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Buffalo",
@@ -6670,7 +6670,7 @@
      "Humidity": 96,
      "Cloudiness": 100,
      "Wind Speed": 4.76,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Buffalo",
@@ -6680,7 +6680,7 @@
      "Humidity": 72,
      "Cloudiness": 70,
      "Wind Speed": 6.88,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Buffalo",
@@ -6690,7 +6690,7 @@
      "Humidity": 57,
      "Cloudiness": 61,
      "Wind Speed": 3.45,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Buffalo",
@@ -6700,7 +6700,7 @@
      "Humidity": 85,
      "Cloudiness": 100,
      "Wind Speed": 6.47,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Winston-Salem",
@@ -6710,7 +6710,7 @@
      "Humidity": 38,
      "Cloudiness": 1,
      "Wind Speed": 4.19,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Winston-Salem",
@@ -6720,7 +6720,7 @@
      "Humidity": 36,
      "Cloudiness": 1,
      "Wind Speed": 4.87,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Winston-Salem",
@@ -6730,7 +6730,7 @@
      "Humidity": 29,
      "Cloudiness": 46,
      "Wind Speed": 3.07,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Winston-Salem",
@@ -6740,7 +6740,7 @@
      "Humidity": 32,
      "Cloudiness": 0,
      "Wind Speed": 2.62,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Winston-Salem",
@@ -6750,7 +6750,7 @@
      "Humidity": 43,
      "Cloudiness": 0,
      "Wind Speed": 3.94,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Chesapeake",
@@ -6760,7 +6760,7 @@
      "Humidity": 42,
      "Cloudiness": 1,
      "Wind Speed": 6.72,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Chesapeake",
@@ -6770,7 +6770,7 @@
      "Humidity": 35,
      "Cloudiness": 2,
      "Wind Speed": 4.46,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Chesapeake",
@@ -6780,7 +6780,7 @@
      "Humidity": 34,
      "Cloudiness": 3,
      "Wind Speed": 6.25,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Chesapeake",
@@ -6790,7 +6790,7 @@
      "Humidity": 36,
      "Cloudiness": 6,
      "Wind Speed": 2.95,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Chesapeake",
@@ -6800,7 +6800,7 @@
      "Humidity": 43,
      "Cloudiness": 0,
      "Wind Speed": 3.63,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Fremont",
@@ -6810,7 +6810,7 @@
      "Humidity": 58,
      "Cloudiness": 27,
      "Wind Speed": 1.73,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Fremont",
@@ -6820,7 +6820,7 @@
      "Humidity": 32,
      "Cloudiness": 45,
      "Wind Speed": 0.94,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Fremont",
@@ -6830,7 +6830,7 @@
      "Humidity": 38,
      "Cloudiness": 100,
      "Wind Speed": 1.01,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Fremont",
@@ -6840,7 +6840,7 @@
      "Humidity": 44,
      "Cloudiness": 1,
      "Wind Speed": 2.3,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Fremont",
@@ -6850,7 +6850,7 @@
      "Humidity": 35,
      "Cloudiness": 93,
      "Wind Speed": 0.68,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Norfolk",
@@ -6860,7 +6860,7 @@
      "Humidity": 53,
      "Cloudiness": 13,
      "Wind Speed": 5,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Norfolk",
@@ -6870,7 +6870,7 @@
      "Humidity": 62,
      "Cloudiness": 100,
      "Wind Speed": 2.04,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Norfolk",
@@ -6880,7 +6880,7 @@
      "Humidity": 62,
      "Cloudiness": 73,
      "Wind Speed": 4.36,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Norfolk",
@@ -6890,7 +6890,7 @@
      "Humidity": 59,
      "Cloudiness": 34,
      "Wind Speed": 4.46,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Norfolk",
@@ -6900,7 +6900,7 @@
      "Humidity": 66,
      "Cloudiness": 81,
      "Wind Speed": 2.23,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Irving",
@@ -6910,7 +6910,7 @@
      "Humidity": 28,
      "Cloudiness": 13,
      "Wind Speed": 2.19,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Irving",
@@ -6920,7 +6920,7 @@
      "Humidity": 34,
      "Cloudiness": 23,
      "Wind Speed": 1.48,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Irving",
@@ -6930,7 +6930,7 @@
      "Humidity": 38,
      "Cloudiness": 4,
      "Wind Speed": 4.05,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Irving",
@@ -6940,7 +6940,7 @@
      "Humidity": 43,
      "Cloudiness": 0,
      "Wind Speed": 7.8,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Irving",
@@ -6950,7 +6950,7 @@
      "Humidity": 38,
      "Cloudiness": 0,
      "Wind Speed": 6.49,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Garland",
@@ -6960,7 +6960,7 @@
      "Humidity": 31,
      "Cloudiness": 1,
      "Wind Speed": 1.99,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Garland",
@@ -6970,7 +6970,7 @@
      "Humidity": 37,
      "Cloudiness": 39,
      "Wind Speed": 1.11,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Garland",
@@ -6980,7 +6980,7 @@
      "Humidity": 43,
      "Cloudiness": 4,
      "Wind Speed": 4.89,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Garland",
@@ -6990,7 +6990,7 @@
      "Humidity": 48,
      "Cloudiness": 0,
      "Wind Speed": 8.79,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Garland",
@@ -7000,7 +7000,7 @@
      "Humidity": 43,
      "Cloudiness": 0,
      "Wind Speed": 7.52,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Paradise",
@@ -7010,7 +7010,7 @@
      "Humidity": 24,
      "Cloudiness": 28,
      "Wind Speed": 0.98,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Paradise",
@@ -7020,7 +7020,7 @@
      "Humidity": 15,
      "Cloudiness": 8,
      "Wind Speed": 0.97,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Paradise",
@@ -7030,7 +7030,7 @@
      "Humidity": 13,
      "Cloudiness": 46,
      "Wind Speed": 1.1,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Paradise",
@@ -7040,7 +7040,7 @@
      "Humidity": 15,
      "Cloudiness": 100,
      "Wind Speed": 1.06,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Paradise",
@@ -7050,7 +7050,7 @@
      "Humidity": 22,
      "Cloudiness": 46,
      "Wind Speed": 2.82,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Arlington",
@@ -7060,7 +7060,7 @@
      "Humidity": 27,
      "Cloudiness": 1,
      "Wind Speed": 2.48,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Arlington",
@@ -7070,7 +7070,7 @@
      "Humidity": 31,
      "Cloudiness": 19,
      "Wind Speed": 1.52,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Arlington",
@@ -7080,7 +7080,7 @@
      "Humidity": 36,
      "Cloudiness": 4,
      "Wind Speed": 4.36,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Arlington",
@@ -7090,7 +7090,7 @@
      "Humidity": 41,
      "Cloudiness": 0,
      "Wind Speed": 7.96,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Arlington",
@@ -7100,7 +7100,7 @@
      "Humidity": 36,
      "Cloudiness": 0,
      "Wind Speed": 6.54,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Richmond",
@@ -7110,7 +7110,7 @@
      "Humidity": 36,
      "Cloudiness": 14,
      "Wind Speed": 4.81,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Richmond",
@@ -7120,7 +7120,7 @@
      "Humidity": 37,
      "Cloudiness": 9,
      "Wind Speed": 3.89,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Richmond",
@@ -7130,7 +7130,7 @@
      "Humidity": 29,
      "Cloudiness": 4,
      "Wind Speed": 4.41,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Richmond",
@@ -7140,7 +7140,7 @@
      "Humidity": 36,
      "Cloudiness": 7,
      "Wind Speed": 1.49,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Richmond",
@@ -7150,7 +7150,7 @@
      "Humidity": 45,
      "Cloudiness": 0,
      "Wind Speed": 2.98,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Hialeah",
@@ -7160,7 +7160,7 @@
      "Humidity": 60,
      "Cloudiness": 30,
      "Wind Speed": 2.75,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Hialeah",
@@ -7170,7 +7170,7 @@
      "Humidity": 47,
      "Cloudiness": 100,
      "Wind Speed": 3.22,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Hialeah",
@@ -7180,7 +7180,7 @@
      "Humidity": 44,
      "Cloudiness": 99,
      "Wind Speed": 6.81,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Hialeah",
@@ -7190,7 +7190,7 @@
      "Humidity": 53,
      "Cloudiness": 45,
      "Wind Speed": 7.72,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Hialeah",
@@ -7200,7 +7200,7 @@
      "Humidity": 58,
      "Cloudiness": 100,
      "Wind Speed": 7.89,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Boise",
@@ -7210,7 +7210,7 @@
      "Humidity": 74,
      "Cloudiness": 28,
      "Wind Speed": 2.2,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Boise",
@@ -7220,7 +7220,7 @@
      "Humidity": 40,
      "Cloudiness": 97,
      "Wind Speed": 1.48,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Boise",
@@ -7230,7 +7230,7 @@
      "Humidity": 40,
      "Cloudiness": 100,
      "Wind Speed": 4.06,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Boise",
@@ -7240,7 +7240,7 @@
      "Humidity": 38,
      "Cloudiness": 41,
      "Wind Speed": 6.64,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Boise",
@@ -7250,7 +7250,7 @@
      "Humidity": 31,
      "Cloudiness": 95,
      "Wind Speed": 3.17,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Spokane",
@@ -7260,7 +7260,7 @@
      "Humidity": 79,
      "Cloudiness": 82,
      "Wind Speed": 1.61,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Spokane",
@@ -7270,7 +7270,7 @@
      "Humidity": 70,
      "Cloudiness": 100,
      "Wind Speed": 9.96,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Spokane",
@@ -7280,7 +7280,7 @@
      "Humidity": 54,
      "Cloudiness": 100,
      "Wind Speed": 8.5,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Spokane",
@@ -7290,7 +7290,7 @@
      "Humidity": 42,
      "Cloudiness": 57,
      "Wind Speed": 5.97,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Spokane",
@@ -7300,7 +7300,7 @@
      "Humidity": 48,
      "Cloudiness": 99,
      "Wind Speed": 2.06,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Frisco",
@@ -7310,7 +7310,7 @@
      "Humidity": 32,
      "Cloudiness": 40,
      "Wind Speed": 2.64,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Frisco",
@@ -7320,7 +7320,7 @@
      "Humidity": 40,
      "Cloudiness": 40,
      "Wind Speed": 2.29,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Frisco",
@@ -7330,7 +7330,7 @@
      "Humidity": 40,
      "Cloudiness": 7,
      "Wind Speed": 4.44,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Frisco",
@@ -7340,7 +7340,7 @@
      "Humidity": 48,
      "Cloudiness": 0,
      "Wind Speed": 8.91,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Frisco",
@@ -7350,7 +7350,7 @@
      "Humidity": 41,
      "Cloudiness": 0,
      "Wind Speed": 7.5,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Moreno Valley",
@@ -7360,7 +7360,7 @@
      "Humidity": 18,
      "Cloudiness": 1,
      "Wind Speed": 1.85,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Moreno Valley",
@@ -7370,7 +7370,7 @@
      "Humidity": 10,
      "Cloudiness": 0,
      "Wind Speed": 2.09,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Moreno Valley",
@@ -7380,7 +7380,7 @@
      "Humidity": 12,
      "Cloudiness": 2,
      "Wind Speed": 2.06,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Moreno Valley",
@@ -7390,7 +7390,7 @@
      "Humidity": 19,
      "Cloudiness": 100,
      "Wind Speed": 1.44,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Moreno Valley",
@@ -7400,7 +7400,7 @@
      "Humidity": 20,
      "Cloudiness": 56,
      "Wind Speed": 1.57,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Tacoma",
@@ -7410,7 +7410,7 @@
      "Humidity": 92,
      "Cloudiness": 93,
      "Wind Speed": 1.64,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Tacoma",
@@ -7420,7 +7420,7 @@
      "Humidity": 90,
      "Cloudiness": 100,
      "Wind Speed": 6.52,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Tacoma",
@@ -7430,7 +7430,7 @@
      "Humidity": 83,
      "Cloudiness": 100,
      "Wind Speed": 7.98,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Tacoma",
@@ -7440,7 +7440,7 @@
      "Humidity": 65,
      "Cloudiness": 78,
      "Wind Speed": 2.61,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Tacoma",
@@ -7450,7 +7450,7 @@
      "Humidity": 54,
      "Cloudiness": 100,
      "Wind Speed": 3.02,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Fontana",
@@ -7460,7 +7460,7 @@
      "Humidity": 18,
      "Cloudiness": 1,
      "Wind Speed": 0.8,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Fontana",
@@ -7470,7 +7470,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 0.98,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Fontana",
@@ -7480,7 +7480,7 @@
      "Humidity": 12,
      "Cloudiness": 6,
      "Wind Speed": 2.05,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Fontana",
@@ -7490,7 +7490,7 @@
      "Humidity": 21,
      "Cloudiness": 100,
      "Wind Speed": 1.77,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Fontana",
@@ -7500,7 +7500,7 @@
      "Humidity": 21,
      "Cloudiness": 44,
      "Wind Speed": 1.01,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Modesto",
@@ -7510,7 +7510,7 @@
      "Humidity": 57,
      "Cloudiness": 62,
      "Wind Speed": 2.13,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Modesto",
@@ -7520,7 +7520,7 @@
      "Humidity": 43,
      "Cloudiness": 53,
      "Wind Speed": 1.11,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Modesto",
@@ -7530,7 +7530,7 @@
      "Humidity": 40,
      "Cloudiness": 100,
      "Wind Speed": 0.61,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Modesto",
@@ -7540,7 +7540,7 @@
      "Humidity": 51,
      "Cloudiness": 0,
      "Wind Speed": 5.57,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Modesto",
@@ -7550,7 +7550,7 @@
      "Humidity": 45,
      "Cloudiness": 70,
      "Wind Speed": 0.35,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Baton Rouge",
@@ -7560,7 +7560,7 @@
      "Humidity": 43,
      "Cloudiness": 1,
      "Wind Speed": 5.09,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Baton Rouge",
@@ -7570,7 +7570,7 @@
      "Humidity": 36,
      "Cloudiness": 1,
      "Wind Speed": 2.51,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Baton Rouge",
@@ -7580,7 +7580,7 @@
      "Humidity": 45,
      "Cloudiness": 5,
      "Wind Speed": 1.38,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Baton Rouge",
@@ -7590,7 +7590,7 @@
      "Humidity": 46,
      "Cloudiness": 0,
      "Wind Speed": 3.59,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Baton Rouge",
@@ -7600,7 +7600,7 @@
      "Humidity": 67,
      "Cloudiness": 99,
      "Wind Speed": 2.73,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Port St. Lucie",
@@ -7610,7 +7610,7 @@
      "Humidity": 61,
      "Cloudiness": 19,
      "Wind Speed": 4.15,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Port St. Lucie",
@@ -7620,7 +7620,7 @@
      "Humidity": 48,
      "Cloudiness": 100,
      "Wind Speed": 3.05,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Port St. Lucie",
@@ -7630,7 +7630,7 @@
      "Humidity": 59,
      "Cloudiness": 100,
      "Wind Speed": 5.98,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Port St. Lucie",
@@ -7640,7 +7640,7 @@
      "Humidity": 60,
      "Cloudiness": 0,
      "Wind Speed": 6.19,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Port St. Lucie",
@@ -7650,7 +7650,7 @@
      "Humidity": 65,
      "Cloudiness": 96,
      "Wind Speed": 6.64,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "San Bernardino",
@@ -7660,7 +7660,7 @@
      "Humidity": 19,
      "Cloudiness": 0,
      "Wind Speed": 3.95,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "San Bernardino",
@@ -7670,7 +7670,7 @@
      "Humidity": 14,
      "Cloudiness": 0,
      "Wind Speed": 1.94,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "San Bernardino",
@@ -7680,7 +7680,7 @@
      "Humidity": 10,
      "Cloudiness": 5,
      "Wind Speed": 1.47,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "San Bernardino",
@@ -7690,7 +7690,7 @@
      "Humidity": 10,
      "Cloudiness": 99,
      "Wind Speed": 2.5,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "San Bernardino",
@@ -7700,7 +7700,7 @@
      "Humidity": 19,
      "Cloudiness": 35,
      "Wind Speed": 2.85,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "McKinney",
@@ -7710,7 +7710,7 @@
      "Humidity": 33,
      "Cloudiness": 1,
      "Wind Speed": 2.45,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "McKinney",
@@ -7720,7 +7720,7 @@
      "Humidity": 40,
      "Cloudiness": 33,
      "Wind Speed": 2.49,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "McKinney",
@@ -7730,7 +7730,7 @@
      "Humidity": 42,
      "Cloudiness": 4,
      "Wind Speed": 5.21,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "McKinney",
@@ -7740,7 +7740,7 @@
      "Humidity": 50,
      "Cloudiness": 0,
      "Wind Speed": 9.48,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "McKinney",
@@ -7750,7 +7750,7 @@
      "Humidity": 43,
      "Cloudiness": 0,
      "Wind Speed": 8.27,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Fayetteville",
@@ -7760,7 +7760,7 @@
      "Humidity": 38,
      "Cloudiness": 1,
      "Wind Speed": 5.39,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Fayetteville",
@@ -7770,7 +7770,7 @@
      "Humidity": 33,
      "Cloudiness": 0,
      "Wind Speed": 4.54,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Fayetteville",
@@ -7780,7 +7780,7 @@
      "Humidity": 27,
      "Cloudiness": 0,
      "Wind Speed": 4.7,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Fayetteville",
@@ -7790,7 +7790,7 @@
      "Humidity": 27,
      "Cloudiness": 0,
      "Wind Speed": 3.14,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Fayetteville",
@@ -7800,7 +7800,7 @@
      "Humidity": 31,
      "Cloudiness": 0,
      "Wind Speed": 3.58,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Santa Clarita",
@@ -7810,7 +7810,7 @@
      "Humidity": 18,
      "Cloudiness": 1,
      "Wind Speed": 2.8,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Santa Clarita",
@@ -7820,7 +7820,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 0.64,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Santa Clarita",
@@ -7830,7 +7830,7 @@
      "Humidity": 15,
      "Cloudiness": 7,
      "Wind Speed": 3.09,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Santa Clarita",
@@ -7840,7 +7840,7 @@
      "Humidity": 24,
      "Cloudiness": 100,
      "Wind Speed": 2.68,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Santa Clarita",
@@ -7850,7 +7850,7 @@
      "Humidity": 24,
      "Cloudiness": 5,
      "Wind Speed": 1.62,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Des Moines",
@@ -7860,7 +7860,7 @@
      "Humidity": 70,
      "Cloudiness": 88,
      "Wind Speed": 4.56,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Des Moines",
@@ -7870,7 +7870,7 @@
      "Humidity": 55,
      "Cloudiness": 100,
      "Wind Speed": 5.79,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Des Moines",
@@ -7880,7 +7880,7 @@
      "Humidity": 59,
      "Cloudiness": 64,
      "Wind Speed": 2.09,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Des Moines",
@@ -7890,7 +7890,7 @@
      "Humidity": 65,
      "Cloudiness": 70,
      "Wind Speed": 7.19,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Des Moines",
@@ -7900,7 +7900,7 @@
      "Humidity": 41,
      "Cloudiness": 100,
      "Wind Speed": 5.93,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Oxnard",
@@ -7910,7 +7910,7 @@
      "Humidity": 30,
      "Cloudiness": 1,
      "Wind Speed": 2.14,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Oxnard",
@@ -7920,7 +7920,7 @@
      "Humidity": 34,
      "Cloudiness": 0,
      "Wind Speed": 2.92,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Oxnard",
@@ -7930,7 +7930,7 @@
      "Humidity": 45,
      "Cloudiness": 10,
      "Wind Speed": 3.51,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Oxnard",
@@ -7940,7 +7940,7 @@
      "Humidity": 58,
      "Cloudiness": 100,
      "Wind Speed": 2.91,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Oxnard",
@@ -7950,7 +7950,7 @@
      "Humidity": 69,
      "Cloudiness": 7,
      "Wind Speed": 2.74,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Birmingham",
@@ -7960,7 +7960,7 @@
      "Humidity": 49,
      "Cloudiness": 14,
      "Wind Speed": 3.62,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Birmingham",
@@ -7970,7 +7970,7 @@
      "Humidity": 39,
      "Cloudiness": 0,
      "Wind Speed": 4.02,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Birmingham",
@@ -7980,7 +7980,7 @@
      "Humidity": 30,
      "Cloudiness": 0,
      "Wind Speed": 1.05,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Birmingham",
@@ -7990,7 +7990,7 @@
      "Humidity": 52,
      "Cloudiness": 0,
      "Wind Speed": 2.95,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Birmingham",
@@ -8000,7 +8000,7 @@
      "Humidity": 50,
      "Cloudiness": 0,
      "Wind Speed": 3.56,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Spring Valley",
@@ -8010,7 +8010,7 @@
      "Humidity": 25,
      "Cloudiness": 27,
      "Wind Speed": 1.27,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Spring Valley",
@@ -8020,7 +8020,7 @@
      "Humidity": 15,
      "Cloudiness": 7,
      "Wind Speed": 1.22,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Spring Valley",
@@ -8030,7 +8030,7 @@
      "Humidity": 13,
      "Cloudiness": 51,
      "Wind Speed": 1.54,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Spring Valley",
@@ -8040,7 +8040,7 @@
      "Humidity": 16,
      "Cloudiness": 100,
      "Wind Speed": 0.55,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Spring Valley",
@@ -8050,7 +8050,7 @@
      "Humidity": 22,
      "Cloudiness": 49,
      "Wind Speed": 2.22,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Huntsville",
@@ -8060,7 +8060,7 @@
      "Humidity": 48,
      "Cloudiness": 1,
      "Wind Speed": 4.27,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Huntsville",
@@ -8070,7 +8070,7 @@
      "Humidity": 49,
      "Cloudiness": 13,
      "Wind Speed": 4.93,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Huntsville",
@@ -8080,7 +8080,7 @@
      "Humidity": 37,
      "Cloudiness": 6,
      "Wind Speed": 1.17,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Huntsville",
@@ -8090,7 +8090,7 @@
      "Humidity": 63,
      "Cloudiness": 0,
      "Wind Speed": 3.99,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Huntsville",
@@ -8100,7 +8100,7 @@
      "Humidity": 59,
      "Cloudiness": 4,
      "Wind Speed": 4.84,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Rochester",
@@ -8110,7 +8110,7 @@
      "Humidity": 82,
      "Cloudiness": 88,
      "Wind Speed": 6.58,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Rochester",
@@ -8120,7 +8120,7 @@
      "Humidity": 96,
      "Cloudiness": 100,
      "Wind Speed": 3.35,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Rochester",
@@ -8130,7 +8130,7 @@
      "Humidity": 70,
      "Cloudiness": 98,
      "Wind Speed": 8.63,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Rochester",
@@ -8140,7 +8140,7 @@
      "Humidity": 62,
      "Cloudiness": 77,
      "Wind Speed": 4.36,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Rochester",
@@ -8150,7 +8150,7 @@
      "Humidity": 86,
      "Cloudiness": 100,
      "Wind Speed": 6.39,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Cape Coral",
@@ -8160,7 +8160,7 @@
      "Humidity": 73,
      "Cloudiness": 29,
      "Wind Speed": 5.28,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Cape Coral",
@@ -8170,7 +8170,7 @@
      "Humidity": 53,
      "Cloudiness": 100,
      "Wind Speed": 4.84,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Cape Coral",
@@ -8180,7 +8180,7 @@
      "Humidity": 36,
      "Cloudiness": 100,
      "Wind Speed": 5.76,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Cape Coral",
@@ -8190,7 +8190,7 @@
      "Humidity": 49,
      "Cloudiness": 0,
      "Wind Speed": 6.67,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Cape Coral",
@@ -8200,7 +8200,7 @@
      "Humidity": 56,
      "Cloudiness": 100,
      "Wind Speed": 6.37,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Tempe",
@@ -8210,7 +8210,7 @@
      "Humidity": 19,
      "Cloudiness": 13,
      "Wind Speed": 0.43,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Tempe",
@@ -8220,7 +8220,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 0.9,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Tempe",
@@ -8230,7 +8230,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 0.67,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Tempe",
@@ -8240,7 +8240,7 @@
      "Humidity": 12,
      "Cloudiness": 100,
      "Wind Speed": 1.55,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Tempe",
@@ -8250,7 +8250,7 @@
      "Humidity": 15,
      "Cloudiness": 77,
      "Wind Speed": 1.24,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Grand Rapids",
@@ -8260,7 +8260,7 @@
      "Humidity": 80,
      "Cloudiness": 83,
      "Wind Speed": 5.32,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Grand Rapids",
@@ -8270,7 +8270,7 @@
      "Humidity": 99,
      "Cloudiness": 100,
      "Wind Speed": 4.71,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Grand Rapids",
@@ -8280,7 +8280,7 @@
      "Humidity": 69,
      "Cloudiness": 99,
      "Wind Speed": 3.95,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Grand Rapids",
@@ -8290,7 +8290,7 @@
      "Humidity": 81,
      "Cloudiness": 98,
      "Wind Speed": 4.63,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Grand Rapids",
@@ -8300,7 +8300,7 @@
      "Humidity": 96,
      "Cloudiness": 100,
      "Wind Speed": 4.73,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Yonkers",
@@ -8310,7 +8310,7 @@
      "Humidity": 64,
      "Cloudiness": 80,
      "Wind Speed": 8.02,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Yonkers",
@@ -8320,7 +8320,7 @@
      "Humidity": 49,
      "Cloudiness": 80,
      "Wind Speed": 4.1,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Yonkers",
@@ -8330,7 +8330,7 @@
      "Humidity": 51,
      "Cloudiness": 69,
      "Wind Speed": 6.18,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Yonkers",
@@ -8340,7 +8340,7 @@
      "Humidity": 39,
      "Cloudiness": 17,
      "Wind Speed": 4.44,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Yonkers",
@@ -8350,7 +8350,7 @@
      "Humidity": 62,
      "Cloudiness": 100,
      "Wind Speed": 1.97,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Overland Park",
@@ -8360,7 +8360,7 @@
      "Humidity": 52,
      "Cloudiness": 24,
      "Wind Speed": 4.21,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Overland Park",
@@ -8370,7 +8370,7 @@
      "Humidity": 50,
      "Cloudiness": 92,
      "Wind Speed": 5.02,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Overland Park",
@@ -8380,7 +8380,7 @@
      "Humidity": 48,
      "Cloudiness": 54,
      "Wind Speed": 5.96,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Overland Park",
@@ -8390,7 +8390,7 @@
      "Humidity": 65,
      "Cloudiness": 90,
      "Wind Speed": 7.27,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Overland Park",
@@ -8400,7 +8400,7 @@
      "Humidity": 60,
      "Cloudiness": 100,
      "Wind Speed": 6.57,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Salt Lake City",
@@ -8410,7 +8410,7 @@
      "Humidity": 50,
      "Cloudiness": 32,
      "Wind Speed": 2.69,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Salt Lake City",
@@ -8420,7 +8420,7 @@
      "Humidity": 29,
      "Cloudiness": 87,
      "Wind Speed": 1.6,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Salt Lake City",
@@ -8430,7 +8430,7 @@
      "Humidity": 23,
      "Cloudiness": 75,
      "Wind Speed": 2.75,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Salt Lake City",
@@ -8440,7 +8440,7 @@
      "Humidity": 59,
      "Cloudiness": 79,
      "Wind Speed": 4.17,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Salt Lake City",
@@ -8450,7 +8450,7 @@
      "Humidity": 34,
      "Cloudiness": 6,
      "Wind Speed": 1.99,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Amarillo",
@@ -8460,7 +8460,7 @@
      "Humidity": 23,
      "Cloudiness": 3,
      "Wind Speed": 7.89,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Amarillo",
@@ -8470,7 +8470,7 @@
      "Humidity": 26,
      "Cloudiness": 42,
      "Wind Speed": 4.19,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Amarillo",
@@ -8480,7 +8480,7 @@
      "Humidity": 12,
      "Cloudiness": 1,
      "Wind Speed": 1.64,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Amarillo",
@@ -8490,7 +8490,7 @@
      "Humidity": 6,
      "Cloudiness": 16,
      "Wind Speed": 8.45,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Amarillo",
@@ -8500,7 +8500,7 @@
      "Humidity": 23,
      "Cloudiness": 94,
      "Wind Speed": 9,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Augusta",
@@ -8510,7 +8510,7 @@
      "Humidity": 92,
      "Cloudiness": 93,
      "Wind Speed": 2.3,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Augusta",
@@ -8520,7 +8520,7 @@
      "Humidity": 92,
      "Cloudiness": 91,
      "Wind Speed": 3.68,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Augusta",
@@ -8530,7 +8530,7 @@
      "Humidity": 94,
      "Cloudiness": 19,
      "Wind Speed": 0.99,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Augusta",
@@ -8540,7 +8540,7 @@
      "Humidity": 83,
      "Cloudiness": 100,
      "Wind Speed": 0.44,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Augusta",
@@ -8550,7 +8550,7 @@
      "Humidity": 91,
      "Cloudiness": 97,
      "Wind Speed": 2.76,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Columbus",
@@ -8560,7 +8560,7 @@
      "Humidity": 69,
      "Cloudiness": 93,
      "Wind Speed": 5.68,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Columbus",
@@ -8570,7 +8570,7 @@
      "Humidity": 97,
      "Cloudiness": 100,
      "Wind Speed": 5.36,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Columbus",
@@ -8580,7 +8580,7 @@
      "Humidity": 57,
      "Cloudiness": 64,
      "Wind Speed": 4.03,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Columbus",
@@ -8590,7 +8590,7 @@
      "Humidity": 64,
      "Cloudiness": 69,
      "Wind Speed": 2.8,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Columbus",
@@ -8600,7 +8600,7 @@
      "Humidity": 64,
      "Cloudiness": 71,
      "Wind Speed": 6.27,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Tallahassee",
@@ -8610,7 +8610,7 @@
      "Humidity": 51,
      "Cloudiness": 1,
      "Wind Speed": 3.99,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Tallahassee",
@@ -8620,7 +8620,7 @@
      "Humidity": 32,
      "Cloudiness": 0,
      "Wind Speed": 3.44,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Tallahassee",
@@ -8630,7 +8630,7 @@
      "Humidity": 32,
      "Cloudiness": 0,
      "Wind Speed": 2.24,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Tallahassee",
@@ -8640,7 +8640,7 @@
      "Humidity": 31,
      "Cloudiness": 0,
      "Wind Speed": 0.85,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Tallahassee",
@@ -8650,7 +8650,7 @@
      "Humidity": 44,
      "Cloudiness": 2,
      "Wind Speed": 1.81,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Montgomery",
@@ -8660,7 +8660,7 @@
      "Humidity": 61,
      "Cloudiness": 63,
      "Wind Speed": 6.25,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Montgomery",
@@ -8670,7 +8670,7 @@
      "Humidity": 48,
      "Cloudiness": 91,
      "Wind Speed": 3.82,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Montgomery",
@@ -8680,7 +8680,7 @@
      "Humidity": 49,
      "Cloudiness": 17,
      "Wind Speed": 7.1,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Montgomery",
@@ -8690,7 +8690,7 @@
      "Humidity": 58,
      "Cloudiness": 10,
      "Wind Speed": 0.89,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Montgomery",
@@ -8700,7 +8700,7 @@
      "Humidity": 62,
      "Cloudiness": 21,
      "Wind Speed": 2.34,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Huntington Beach",
@@ -8710,7 +8710,7 @@
      "Humidity": 36,
      "Cloudiness": 1,
      "Wind Speed": 2.7,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Huntington Beach",
@@ -8720,7 +8720,7 @@
      "Humidity": 34,
      "Cloudiness": 0,
      "Wind Speed": 2.43,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Huntington Beach",
@@ -8730,7 +8730,7 @@
      "Humidity": 46,
      "Cloudiness": 2,
      "Wind Speed": 2.2,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Huntington Beach",
@@ -8740,7 +8740,7 @@
      "Humidity": 58,
      "Cloudiness": 100,
      "Wind Speed": 3.43,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Huntington Beach",
@@ -8750,7 +8750,7 @@
      "Humidity": 66,
      "Cloudiness": 38,
      "Wind Speed": 2.72,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Akron",
@@ -8760,7 +8760,7 @@
      "Humidity": 71,
      "Cloudiness": 91,
      "Wind Speed": 7.17,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Akron",
@@ -8770,7 +8770,7 @@
      "Humidity": 99,
      "Cloudiness": 100,
      "Wind Speed": 5.26,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Akron",
@@ -8780,7 +8780,7 @@
      "Humidity": 76,
      "Cloudiness": 85,
      "Wind Speed": 4.31,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Akron",
@@ -8790,7 +8790,7 @@
      "Humidity": 75,
      "Cloudiness": 36,
      "Wind Speed": 2.98,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Akron",
@@ -8800,7 +8800,7 @@
      "Humidity": 75,
      "Cloudiness": 79,
      "Wind Speed": 6.72,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Little Rock",
@@ -8810,7 +8810,7 @@
      "Humidity": 44,
      "Cloudiness": 15,
      "Wind Speed": 2.7,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Little Rock",
@@ -8820,7 +8820,7 @@
      "Humidity": 43,
      "Cloudiness": 100,
      "Wind Speed": 2.47,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Little Rock",
@@ -8830,7 +8830,7 @@
      "Humidity": 46,
      "Cloudiness": 0,
      "Wind Speed": 3.66,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Little Rock",
@@ -8840,7 +8840,7 @@
      "Humidity": 53,
      "Cloudiness": 12,
      "Wind Speed": 5.26,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Little Rock",
@@ -8850,7 +8850,7 @@
      "Humidity": 47,
      "Cloudiness": 4,
      "Wind Speed": 6.07,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Glendale",
@@ -8860,7 +8860,7 @@
      "Humidity": 18,
      "Cloudiness": 1,
      "Wind Speed": 0.58,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Glendale",
@@ -8870,7 +8870,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 0.82,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Glendale",
@@ -8880,7 +8880,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 0.3,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Glendale",
@@ -8890,7 +8890,7 @@
      "Humidity": 12,
      "Cloudiness": 100,
      "Wind Speed": 1.15,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Glendale",
@@ -8900,7 +8900,7 @@
      "Humidity": 14,
      "Cloudiness": 84,
      "Wind Speed": 1.44,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Grand Prairie",
@@ -8910,7 +8910,7 @@
      "Humidity": 27,
      "Cloudiness": 1,
      "Wind Speed": 2.25,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Grand Prairie",
@@ -8920,7 +8920,7 @@
      "Humidity": 32,
      "Cloudiness": 14,
      "Wind Speed": 1.57,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Grand Prairie",
@@ -8930,7 +8930,7 @@
      "Humidity": 38,
      "Cloudiness": 4,
      "Wind Speed": 4.19,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Grand Prairie",
@@ -8940,7 +8940,7 @@
      "Humidity": 42,
      "Cloudiness": 0,
      "Wind Speed": 7.77,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Grand Prairie",
@@ -8950,7 +8950,7 @@
      "Humidity": 37,
      "Cloudiness": 0,
      "Wind Speed": 6.44,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Aurora",
@@ -8960,7 +8960,7 @@
      "Humidity": 23,
      "Cloudiness": 83,
      "Wind Speed": 5.75,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Aurora",
@@ -8970,7 +8970,7 @@
      "Humidity": 21,
      "Cloudiness": 49,
      "Wind Speed": 6.74,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Aurora",
@@ -8980,7 +8980,7 @@
      "Humidity": 16,
      "Cloudiness": 17,
      "Wind Speed": 1.71,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Aurora",
@@ -8990,7 +8990,7 @@
      "Humidity": 11,
      "Cloudiness": 100,
      "Wind Speed": 1.48,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Aurora",
@@ -9000,7 +9000,7 @@
      "Humidity": 54,
      "Cloudiness": 89,
      "Wind Speed": 2.17,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Sunrise Manor",
@@ -9010,7 +9010,7 @@
      "Humidity": 24,
      "Cloudiness": 18,
      "Wind Speed": 0.89,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Sunrise Manor",
@@ -9020,7 +9020,7 @@
      "Humidity": 15,
      "Cloudiness": 15,
      "Wind Speed": 0.76,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Sunrise Manor",
@@ -9030,7 +9030,7 @@
      "Humidity": 14,
      "Cloudiness": 45,
      "Wind Speed": 1.17,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Sunrise Manor",
@@ -9040,7 +9040,7 @@
      "Humidity": 15,
      "Cloudiness": 100,
      "Wind Speed": 0.51,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Sunrise Manor",
@@ -9050,7 +9050,7 @@
      "Humidity": 22,
      "Cloudiness": 34,
      "Wind Speed": 3.56,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Ontario",
@@ -9060,7 +9060,7 @@
      "Humidity": 19,
      "Cloudiness": 1,
      "Wind Speed": 1.1,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Ontario",
@@ -9070,7 +9070,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 1.64,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Ontario",
@@ -9080,7 +9080,7 @@
      "Humidity": 13,
      "Cloudiness": 6,
      "Wind Speed": 2.46,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Ontario",
@@ -9090,7 +9090,7 @@
      "Humidity": 22,
      "Cloudiness": 100,
      "Wind Speed": 2.23,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Ontario",
@@ -9100,7 +9100,7 @@
      "Humidity": 27,
      "Cloudiness": 21,
      "Wind Speed": 1.93,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Sioux Falls",
@@ -9110,7 +9110,7 @@
      "Humidity": 84,
      "Cloudiness": 93,
      "Wind Speed": 5.34,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Sioux Falls",
@@ -9120,7 +9120,7 @@
      "Humidity": 70,
      "Cloudiness": 100,
      "Wind Speed": 1.73,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Sioux Falls",
@@ -9130,7 +9130,7 @@
      "Humidity": 67,
      "Cloudiness": 98,
      "Wind Speed": 2.01,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Sioux Falls",
@@ -9140,7 +9140,7 @@
      "Humidity": 41,
      "Cloudiness": 86,
      "Wind Speed": 4.26,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Sioux Falls",
@@ -9150,7 +9150,7 @@
      "Humidity": 32,
      "Cloudiness": 41,
      "Wind Speed": 8.08,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Knoxville",
@@ -9160,7 +9160,7 @@
      "Humidity": 48,
      "Cloudiness": 3,
      "Wind Speed": 2.14,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Knoxville",
@@ -9170,7 +9170,7 @@
      "Humidity": 45,
      "Cloudiness": 55,
      "Wind Speed": 5.34,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Knoxville",
@@ -9180,7 +9180,7 @@
      "Humidity": 34,
      "Cloudiness": 42,
      "Wind Speed": 1.94,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Knoxville",
@@ -9190,7 +9190,7 @@
      "Humidity": 63,
      "Cloudiness": 93,
      "Wind Speed": 2.07,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Knoxville",
@@ -9200,7 +9200,7 @@
      "Humidity": 49,
      "Cloudiness": 0,
      "Wind Speed": 3.75,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Vancouver",
@@ -9210,7 +9210,7 @@
      "Humidity": 92,
      "Cloudiness": 100,
      "Wind Speed": 2.06,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Vancouver",
@@ -9220,7 +9220,7 @@
      "Humidity": 98,
      "Cloudiness": 100,
      "Wind Speed": 4.64,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Vancouver",
@@ -9230,7 +9230,7 @@
      "Humidity": 87,
      "Cloudiness": 100,
      "Wind Speed": 9.89,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Vancouver",
@@ -9240,7 +9240,7 @@
      "Humidity": 63,
      "Cloudiness": 4,
      "Wind Speed": 4.15,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Vancouver",
@@ -9250,7 +9250,7 @@
      "Humidity": 60,
      "Cloudiness": 100,
      "Wind Speed": 1.31,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Mobile",
@@ -9260,7 +9260,7 @@
      "Humidity": 43,
      "Cloudiness": 1,
      "Wind Speed": 4.36,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Mobile",
@@ -9270,7 +9270,7 @@
      "Humidity": 33,
      "Cloudiness": 0,
      "Wind Speed": 2.48,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Mobile",
@@ -9280,7 +9280,7 @@
      "Humidity": 39,
      "Cloudiness": 3,
      "Wind Speed": 0.94,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Mobile",
@@ -9290,7 +9290,7 @@
      "Humidity": 50,
      "Cloudiness": 0,
      "Wind Speed": 3.62,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Mobile",
@@ -9300,7 +9300,7 @@
      "Humidity": 54,
      "Cloudiness": 0,
      "Wind Speed": 4.19,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Worcester",
@@ -9310,7 +9310,7 @@
      "Humidity": 54,
      "Cloudiness": 24,
      "Wind Speed": 5.16,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Worcester",
@@ -9320,7 +9320,7 @@
      "Humidity": 66,
      "Cloudiness": 100,
      "Wind Speed": 1.63,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Worcester",
@@ -9330,7 +9330,7 @@
      "Humidity": 77,
      "Cloudiness": 95,
      "Wind Speed": 5.62,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Worcester",
@@ -9340,7 +9340,7 @@
      "Humidity": 69,
      "Cloudiness": 43,
      "Wind Speed": 4.54,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Worcester",
@@ -9350,7 +9350,7 @@
      "Humidity": 72,
      "Cloudiness": 95,
      "Wind Speed": 2.36,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Chattanooga",
@@ -9360,7 +9360,7 @@
      "Humidity": 46,
      "Cloudiness": 1,
      "Wind Speed": 3.86,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Chattanooga",
@@ -9370,7 +9370,7 @@
      "Humidity": 51,
      "Cloudiness": 16,
      "Wind Speed": 4.26,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Chattanooga",
@@ -9380,7 +9380,7 @@
      "Humidity": 33,
      "Cloudiness": 13,
      "Wind Speed": 0.64,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Chattanooga",
@@ -9390,7 +9390,7 @@
      "Humidity": 64,
      "Cloudiness": 0,
      "Wind Speed": 3.03,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Chattanooga",
@@ -9400,7 +9400,7 @@
      "Humidity": 56,
      "Cloudiness": 0,
      "Wind Speed": 3.39,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Brownsville",
@@ -9410,7 +9410,7 @@
      "Humidity": 49,
      "Cloudiness": 1,
      "Wind Speed": 6.37,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Brownsville",
@@ -9420,7 +9420,7 @@
      "Humidity": 48,
      "Cloudiness": 20,
      "Wind Speed": 5.97,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Brownsville",
@@ -9430,7 +9430,7 @@
      "Humidity": 50,
      "Cloudiness": 52,
      "Wind Speed": 6.25,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Brownsville",
@@ -9440,7 +9440,7 @@
      "Humidity": 46,
      "Cloudiness": 0,
      "Wind Speed": 8.5,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Brownsville",
@@ -9450,7 +9450,7 @@
      "Humidity": 56,
      "Cloudiness": 100,
      "Wind Speed": 8.21,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Peoria",
@@ -9460,7 +9460,7 @@
      "Humidity": 67,
      "Cloudiness": 93,
      "Wind Speed": 5.17,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Peoria",
@@ -9470,7 +9470,7 @@
      "Humidity": 58,
      "Cloudiness": 100,
      "Wind Speed": 8.99,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Peoria",
@@ -9480,7 +9480,7 @@
      "Humidity": 60,
      "Cloudiness": 97,
      "Wind Speed": 4.61,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Peoria",
@@ -9490,7 +9490,7 @@
      "Humidity": 69,
      "Cloudiness": 60,
      "Wind Speed": 5.36,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Peoria",
@@ -9500,7 +9500,7 @@
      "Humidity": 85,
      "Cloudiness": 100,
      "Wind Speed": 6.46,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Fort Lauderdale",
@@ -9510,7 +9510,7 @@
      "Humidity": 62,
      "Cloudiness": 77,
      "Wind Speed": 2.3,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Fort Lauderdale",
@@ -9520,7 +9520,7 @@
      "Humidity": 49,
      "Cloudiness": 100,
      "Wind Speed": 3.42,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Fort Lauderdale",
@@ -9530,7 +9530,7 @@
      "Humidity": 48,
      "Cloudiness": 94,
      "Wind Speed": 7.05,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Fort Lauderdale",
@@ -9540,7 +9540,7 @@
      "Humidity": 55,
      "Cloudiness": 16,
      "Wind Speed": 7.78,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Fort Lauderdale",
@@ -9550,7 +9550,7 @@
      "Humidity": 56,
      "Cloudiness": 100,
      "Wind Speed": 8,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Shreveport",
@@ -9560,7 +9560,7 @@
      "Humidity": 33,
      "Cloudiness": 1,
      "Wind Speed": 2.65,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Shreveport",
@@ -9570,7 +9570,7 @@
      "Humidity": 33,
      "Cloudiness": 6,
      "Wind Speed": 3.04,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Shreveport",
@@ -9580,7 +9580,7 @@
      "Humidity": 51,
      "Cloudiness": 29,
      "Wind Speed": 3.13,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Shreveport",
@@ -9590,7 +9590,7 @@
      "Humidity": 42,
      "Cloudiness": 0,
      "Wind Speed": 5.16,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Shreveport",
@@ -9600,7 +9600,7 @@
      "Humidity": 42,
      "Cloudiness": 5,
      "Wind Speed": 5.4,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Newport News",
@@ -9610,7 +9610,7 @@
      "Humidity": 46,
      "Cloudiness": 1,
      "Wind Speed": 7.73,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Newport News",
@@ -9620,7 +9620,7 @@
      "Humidity": 38,
      "Cloudiness": 3,
      "Wind Speed": 4.96,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Newport News",
@@ -9630,7 +9630,7 @@
      "Humidity": 37,
      "Cloudiness": 5,
      "Wind Speed": 7.09,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Newport News",
@@ -9640,7 +9640,7 @@
      "Humidity": 40,
      "Cloudiness": 6,
      "Wind Speed": 3.01,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Newport News",
@@ -9650,7 +9650,7 @@
      "Humidity": 48,
      "Cloudiness": 0,
      "Wind Speed": 3.89,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Providence",
@@ -9660,7 +9660,7 @@
      "Humidity": 53,
      "Cloudiness": 25,
      "Wind Speed": 5.12,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Providence",
@@ -9670,7 +9670,7 @@
      "Humidity": 60,
      "Cloudiness": 100,
      "Wind Speed": 2.87,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Providence",
@@ -9680,7 +9680,7 @@
      "Humidity": 59,
      "Cloudiness": 57,
      "Wind Speed": 4.81,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Providence",
@@ -9690,7 +9690,7 @@
      "Humidity": 57,
      "Cloudiness": 59,
      "Wind Speed": 4.18,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Providence",
@@ -9700,7 +9700,7 @@
      "Humidity": 66,
      "Cloudiness": 73,
      "Wind Speed": 2.8,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Elk Grove",
@@ -9710,7 +9710,7 @@
      "Humidity": 82,
      "Cloudiness": 61,
      "Wind Speed": 1.46,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Elk Grove",
@@ -9720,7 +9720,7 @@
      "Humidity": 44,
      "Cloudiness": 94,
      "Wind Speed": 1.46,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Elk Grove",
@@ -9730,7 +9730,7 @@
      "Humidity": 47,
      "Cloudiness": 100,
      "Wind Speed": 1.46,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Elk Grove",
@@ -9740,7 +9740,7 @@
      "Humidity": 55,
      "Cloudiness": 0,
      "Wind Speed": 3.73,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Elk Grove",
@@ -9750,7 +9750,7 @@
      "Humidity": 56,
      "Cloudiness": 100,
      "Wind Speed": 0.35,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Rancho Cucamonga",
@@ -9760,7 +9760,7 @@
      "Humidity": 19,
      "Cloudiness": 1,
      "Wind Speed": 0.37,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Rancho Cucamonga",
@@ -9770,7 +9770,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 1.23,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Rancho Cucamonga",
@@ -9780,7 +9780,7 @@
      "Humidity": 13,
      "Cloudiness": 7,
      "Wind Speed": 2.39,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Rancho Cucamonga",
@@ -9790,7 +9790,7 @@
      "Humidity": 22,
      "Cloudiness": 100,
      "Wind Speed": 2.18,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Rancho Cucamonga",
@@ -9800,7 +9800,7 @@
      "Humidity": 24,
      "Cloudiness": 28,
      "Wind Speed": 1.4,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Salem",
@@ -9810,7 +9810,7 @@
      "Humidity": 95,
      "Cloudiness": 94,
      "Wind Speed": 0.75,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Salem",
@@ -9820,7 +9820,7 @@
      "Humidity": 98,
      "Cloudiness": 100,
      "Wind Speed": 1.02,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Salem",
@@ -9830,7 +9830,7 @@
      "Humidity": 92,
      "Cloudiness": 100,
      "Wind Speed": 1.09,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Salem",
@@ -9840,7 +9840,7 @@
      "Humidity": 93,
      "Cloudiness": 100,
      "Wind Speed": 1.1,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Salem",
@@ -9850,7 +9850,7 @@
      "Humidity": 98,
      "Cloudiness": 100,
      "Wind Speed": 0.78,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Pembroke Pines",
@@ -9860,7 +9860,7 @@
      "Humidity": 60,
      "Cloudiness": 44,
      "Wind Speed": 2.64,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Pembroke Pines",
@@ -9870,7 +9870,7 @@
      "Humidity": 47,
      "Cloudiness": 100,
      "Wind Speed": 3.55,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Pembroke Pines",
@@ -9880,7 +9880,7 @@
      "Humidity": 43,
      "Cloudiness": 99,
      "Wind Speed": 6.69,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Pembroke Pines",
@@ -9890,7 +9890,7 @@
      "Humidity": 53,
      "Cloudiness": 20,
      "Wind Speed": 7.64,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Pembroke Pines",
@@ -9900,7 +9900,7 @@
      "Humidity": 54,
      "Cloudiness": 100,
      "Wind Speed": 7.79,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Santa Rosa",
@@ -9910,7 +9910,7 @@
      "Humidity": 86,
      "Cloudiness": 57,
      "Wind Speed": 2.56,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Santa Rosa",
@@ -9920,7 +9920,7 @@
      "Humidity": 86,
      "Cloudiness": 49,
      "Wind Speed": 3.81,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Santa Rosa",
@@ -9930,7 +9930,7 @@
      "Humidity": 85,
      "Cloudiness": 62,
      "Wind Speed": 3.3,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Santa Rosa",
@@ -9940,7 +9940,7 @@
      "Humidity": 85,
      "Cloudiness": 100,
      "Wind Speed": 3.71,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Santa Rosa",
@@ -9950,7 +9950,7 @@
      "Humidity": 86,
      "Cloudiness": 100,
      "Wind Speed": 2.92,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Eugene",
@@ -9960,7 +9960,7 @@
      "Humidity": 89,
      "Cloudiness": 88,
      "Wind Speed": 1.47,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Eugene",
@@ -9970,7 +9970,7 @@
      "Humidity": 70,
      "Cloudiness": 100,
      "Wind Speed": 2.76,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Eugene",
@@ -9980,7 +9980,7 @@
      "Humidity": 76,
      "Cloudiness": 100,
      "Wind Speed": 6.21,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Eugene",
@@ -9990,7 +9990,7 @@
      "Humidity": 66,
      "Cloudiness": 45,
      "Wind Speed": 1.16,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Eugene",
@@ -10000,7 +10000,7 @@
      "Humidity": 67,
      "Cloudiness": 100,
      "Wind Speed": 1.42,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Oceanside",
@@ -10010,7 +10010,7 @@
      "Humidity": 35,
      "Cloudiness": 1,
      "Wind Speed": 2.78,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Oceanside",
@@ -10020,7 +10020,7 @@
      "Humidity": 41,
      "Cloudiness": 0,
      "Wind Speed": 3.52,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Oceanside",
@@ -10030,7 +10030,7 @@
      "Humidity": 44,
      "Cloudiness": 0,
      "Wind Speed": 3.05,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Oceanside",
@@ -10040,7 +10040,7 @@
      "Humidity": 57,
      "Cloudiness": 100,
      "Wind Speed": 3.2,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Oceanside",
@@ -10050,7 +10050,7 @@
      "Humidity": 69,
      "Cloudiness": 97,
      "Wind Speed": 3.2,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Cary",
@@ -10060,7 +10060,7 @@
      "Humidity": 41,
      "Cloudiness": 1,
      "Wind Speed": 4.71,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Cary",
@@ -10070,7 +10070,7 @@
      "Humidity": 37,
      "Cloudiness": 0,
      "Wind Speed": 4.16,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Cary",
@@ -10080,7 +10080,7 @@
      "Humidity": 32,
      "Cloudiness": 3,
      "Wind Speed": 4.17,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Cary",
@@ -10090,7 +10090,7 @@
      "Humidity": 32,
      "Cloudiness": 0,
      "Wind Speed": 2.46,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Cary",
@@ -10100,7 +10100,7 @@
      "Humidity": 39,
      "Cloudiness": 0,
      "Wind Speed": 3.15,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Fort Collins",
@@ -10110,7 +10110,7 @@
      "Humidity": 26,
      "Cloudiness": 25,
      "Wind Speed": 6.69,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Fort Collins",
@@ -10120,7 +10120,7 @@
      "Humidity": 24,
      "Cloudiness": 72,
      "Wind Speed": 6.48,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Fort Collins",
@@ -10130,7 +10130,7 @@
      "Humidity": 15,
      "Cloudiness": 71,
      "Wind Speed": 2.62,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Fort Collins",
@@ -10140,7 +10140,7 @@
      "Humidity": 15,
      "Cloudiness": 97,
      "Wind Speed": 3.63,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Fort Collins",
@@ -10150,7 +10150,7 @@
      "Humidity": 35,
      "Cloudiness": 16,
      "Wind Speed": 3.83,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Corona",
@@ -10160,7 +10160,7 @@
      "Humidity": 22,
      "Cloudiness": 1,
      "Wind Speed": 1.38,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Corona",
@@ -10170,7 +10170,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 1.92,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Corona",
@@ -10180,7 +10180,7 @@
      "Humidity": 14,
      "Cloudiness": 2,
      "Wind Speed": 2.43,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Corona",
@@ -10190,7 +10190,7 @@
      "Humidity": 22,
      "Cloudiness": 100,
      "Wind Speed": 1.97,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Corona",
@@ -10200,7 +10200,7 @@
      "Humidity": 26,
      "Cloudiness": 36,
      "Wind Speed": 1.69,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Enterprise",
@@ -10210,7 +10210,7 @@
      "Humidity": 25,
      "Cloudiness": 27,
      "Wind Speed": 1.35,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Enterprise",
@@ -10220,7 +10220,7 @@
      "Humidity": 15,
      "Cloudiness": 6,
      "Wind Speed": 1.31,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Enterprise",
@@ -10230,7 +10230,7 @@
      "Humidity": 12,
      "Cloudiness": 48,
      "Wind Speed": 1.29,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Enterprise",
@@ -10240,7 +10240,7 @@
      "Humidity": 16,
      "Cloudiness": 100,
      "Wind Speed": 1.06,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Enterprise",
@@ -10250,7 +10250,7 @@
      "Humidity": 23,
      "Cloudiness": 49,
      "Wind Speed": 2.88,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Garden Grove",
@@ -10260,7 +10260,7 @@
      "Humidity": 27,
      "Cloudiness": 1,
      "Wind Speed": 2.56,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Garden Grove",
@@ -10270,7 +10270,7 @@
      "Humidity": 19,
      "Cloudiness": 0,
      "Wind Speed": 2.16,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Garden Grove",
@@ -10280,7 +10280,7 @@
      "Humidity": 28,
      "Cloudiness": 3,
      "Wind Speed": 2.2,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Garden Grove",
@@ -10290,7 +10290,7 @@
      "Humidity": 42,
      "Cloudiness": 100,
      "Wind Speed": 3.22,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Garden Grove",
@@ -10300,7 +10300,7 @@
      "Humidity": 51,
      "Cloudiness": 17,
      "Wind Speed": 2.72,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Springfield",
@@ -10310,7 +10310,7 @@
      "Humidity": 55,
      "Cloudiness": 9,
      "Wind Speed": 4.16,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Springfield",
@@ -10320,7 +10320,7 @@
      "Humidity": 50,
      "Cloudiness": 99,
      "Wind Speed": 5.75,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Springfield",
@@ -10330,7 +10330,7 @@
      "Humidity": 53,
      "Cloudiness": 0,
      "Wind Speed": 6.1,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Springfield",
@@ -10340,7 +10340,7 @@
      "Humidity": 61,
      "Cloudiness": 36,
      "Wind Speed": 7.15,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Springfield",
@@ -10350,7 +10350,7 @@
      "Humidity": 77,
      "Cloudiness": 100,
      "Wind Speed": 5.86,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Clarksville",
@@ -10360,7 +10360,7 @@
      "Humidity": 53,
      "Cloudiness": 29,
      "Wind Speed": 3.81,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Clarksville",
@@ -10370,7 +10370,7 @@
      "Humidity": 54,
      "Cloudiness": 100,
      "Wind Speed": 5.87,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Clarksville",
@@ -10380,7 +10380,7 @@
      "Humidity": 41,
      "Cloudiness": 22,
      "Wind Speed": 3.03,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Clarksville",
@@ -10390,7 +10390,7 @@
      "Humidity": 68,
      "Cloudiness": 47,
      "Wind Speed": 5.77,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Clarksville",
@@ -10400,7 +10400,7 @@
      "Humidity": 61,
      "Cloudiness": 0,
      "Wind Speed": 6.65,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Bayamon",
@@ -10410,7 +10410,7 @@
      "Humidity": 70,
      "Cloudiness": 59,
      "Wind Speed": 5.27,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Bayamon",
@@ -10420,7 +10420,7 @@
      "Humidity": 73,
      "Cloudiness": 26,
      "Wind Speed": 5.27,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Bayamon",
@@ -10430,7 +10430,7 @@
      "Humidity": 73,
      "Cloudiness": 76,
      "Wind Speed": 5.19,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Bayamon",
@@ -10440,7 +10440,7 @@
      "Humidity": 67,
      "Cloudiness": 16,
      "Wind Speed": 5.27,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Bayamon",
@@ -10450,7 +10450,7 @@
      "Humidity": 78,
      "Cloudiness": 51,
      "Wind Speed": 5.69,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Lakewood",
@@ -10460,7 +10460,7 @@
      "Humidity": 23,
      "Cloudiness": 97,
      "Wind Speed": 3.99,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Lakewood",
@@ -10470,7 +10470,7 @@
      "Humidity": 23,
      "Cloudiness": 96,
      "Wind Speed": 3.43,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Lakewood",
@@ -10480,7 +10480,7 @@
      "Humidity": 19,
      "Cloudiness": 59,
      "Wind Speed": 0.26,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Lakewood",
@@ -10490,7 +10490,7 @@
      "Humidity": 11,
      "Cloudiness": 100,
      "Wind Speed": 0.35,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Lakewood",
@@ -10500,7 +10500,7 @@
      "Humidity": 51,
      "Cloudiness": 80,
      "Wind Speed": 2.65,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Alexandria",
@@ -10510,7 +10510,7 @@
      "Humidity": 61,
      "Cloudiness": 34,
      "Wind Speed": 3.59,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Alexandria",
@@ -10520,7 +10520,7 @@
      "Humidity": 72,
      "Cloudiness": 87,
      "Wind Speed": 3.98,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Alexandria",
@@ -10530,7 +10530,7 @@
      "Humidity": 64,
      "Cloudiness": 0,
      "Wind Speed": 4.19,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Alexandria",
@@ -10540,7 +10540,7 @@
      "Humidity": 68,
      "Cloudiness": 100,
      "Wind Speed": 3.86,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Alexandria",
@@ -10550,7 +10550,7 @@
      "Humidity": 73,
      "Cloudiness": 0,
      "Wind Speed": 3.7,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Hayward",
@@ -10560,7 +10560,7 @@
      "Humidity": 63,
      "Cloudiness": 27,
      "Wind Speed": 1.44,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Hayward",
@@ -10570,7 +10570,7 @@
      "Humidity": 39,
      "Cloudiness": 50,
      "Wind Speed": 1.06,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Hayward",
@@ -10580,7 +10580,7 @@
      "Humidity": 45,
      "Cloudiness": 100,
      "Wind Speed": 0.86,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Hayward",
@@ -10590,7 +10590,7 @@
      "Humidity": 55,
      "Cloudiness": 3,
      "Wind Speed": 1.78,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Hayward",
@@ -10600,7 +10600,7 @@
      "Humidity": 37,
      "Cloudiness": 87,
      "Wind Speed": 0.79,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Murfreesboro",
@@ -10610,7 +10610,7 @@
      "Humidity": 49,
      "Cloudiness": 2,
      "Wind Speed": 3.24,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Murfreesboro",
@@ -10620,7 +10620,7 @@
      "Humidity": 55,
      "Cloudiness": 71,
      "Wind Speed": 5.22,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Murfreesboro",
@@ -10630,7 +10630,7 @@
      "Humidity": 42,
      "Cloudiness": 24,
      "Wind Speed": 2.1,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Murfreesboro",
@@ -10640,7 +10640,7 @@
      "Humidity": 71,
      "Cloudiness": 14,
      "Wind Speed": 4.8,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Murfreesboro",
@@ -10650,7 +10650,7 @@
      "Humidity": 66,
      "Cloudiness": 0,
      "Wind Speed": 5.62,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Killeen",
@@ -10660,7 +10660,7 @@
      "Humidity": 26,
      "Cloudiness": 1,
      "Wind Speed": 2.78,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Killeen",
@@ -10670,7 +10670,7 @@
      "Humidity": 41,
      "Cloudiness": 2,
      "Wind Speed": 4.34,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Killeen",
@@ -10680,7 +10680,7 @@
      "Humidity": 47,
      "Cloudiness": 3,
      "Wind Speed": 6.46,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Killeen",
@@ -10690,7 +10690,7 @@
      "Humidity": 43,
      "Cloudiness": 1,
      "Wind Speed": 9.62,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Killeen",
@@ -10700,7 +10700,7 @@
      "Humidity": 42,
      "Cloudiness": 7,
      "Wind Speed": 8.37,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Hollywood",
@@ -10710,7 +10710,7 @@
      "Humidity": 20,
      "Cloudiness": 1,
      "Wind Speed": 1.84,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Hollywood",
@@ -10720,7 +10720,7 @@
      "Humidity": 16,
      "Cloudiness": 0,
      "Wind Speed": 2.47,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Hollywood",
@@ -10730,7 +10730,7 @@
      "Humidity": 20,
      "Cloudiness": 6,
      "Wind Speed": 2.32,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Hollywood",
@@ -10740,7 +10740,7 @@
      "Humidity": 35,
      "Cloudiness": 100,
      "Wind Speed": 3.1,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Hollywood",
@@ -10750,7 +10750,7 @@
      "Humidity": 41,
      "Cloudiness": 6,
      "Wind Speed": 2.5,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Lancaster",
@@ -10760,7 +10760,7 @@
      "Humidity": 82,
      "Cloudiness": 73,
      "Wind Speed": 7.36,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Lancaster",
@@ -10770,7 +10770,7 @@
      "Humidity": 65,
      "Cloudiness": 87,
      "Wind Speed": 3.3,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Lancaster",
@@ -10780,7 +10780,7 @@
      "Humidity": 66,
      "Cloudiness": 41,
      "Wind Speed": 8.11,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Lancaster",
@@ -10790,7 +10790,7 @@
      "Humidity": 66,
      "Cloudiness": 14,
      "Wind Speed": 2.44,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Lancaster",
@@ -10800,7 +10800,7 @@
      "Humidity": 76,
      "Cloudiness": 79,
      "Wind Speed": 1.45,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Salinas",
@@ -10810,7 +10810,7 @@
      "Humidity": 49,
      "Cloudiness": 2,
      "Wind Speed": 2.31,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Salinas",
@@ -10820,7 +10820,7 @@
      "Humidity": 25,
      "Cloudiness": 5,
      "Wind Speed": 1.61,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Salinas",
@@ -10830,7 +10830,7 @@
      "Humidity": 36,
      "Cloudiness": 100,
      "Wind Speed": 1.64,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Salinas",
@@ -10840,7 +10840,7 @@
      "Humidity": 67,
      "Cloudiness": 9,
      "Wind Speed": 3.29,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Salinas",
@@ -10850,7 +10850,7 @@
      "Humidity": 50,
      "Cloudiness": 55,
      "Wind Speed": 2.17,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Jackson",
@@ -10860,7 +10860,7 @@
      "Humidity": 80,
      "Cloudiness": 76,
      "Wind Speed": 0.79,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Jackson",
@@ -10870,7 +10870,7 @@
      "Humidity": 55,
      "Cloudiness": 100,
      "Wind Speed": 0.9,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Jackson",
@@ -10880,7 +10880,7 @@
      "Humidity": 46,
      "Cloudiness": 100,
      "Wind Speed": 2.26,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Jackson",
@@ -10890,7 +10890,7 @@
      "Humidity": 53,
      "Cloudiness": 14,
      "Wind Speed": 0.9,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Jackson",
@@ -10900,7 +10900,7 @@
      "Humidity": 38,
      "Cloudiness": 100,
      "Wind Speed": 0.34,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Midland",
@@ -10910,7 +10910,7 @@
      "Humidity": 29,
      "Cloudiness": 1,
      "Wind Speed": 7.53,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Midland",
@@ -10920,7 +10920,7 @@
      "Humidity": 18,
      "Cloudiness": 1,
      "Wind Speed": 3.11,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Midland",
@@ -10930,7 +10930,7 @@
      "Humidity": 10,
      "Cloudiness": 13,
      "Wind Speed": 7.12,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Midland",
@@ -10940,7 +10940,7 @@
      "Humidity": 9,
      "Cloudiness": 0,
      "Wind Speed": 9.23,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Midland",
@@ -10950,7 +10950,7 @@
      "Humidity": 11,
      "Cloudiness": 71,
      "Wind Speed": 5.43,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Macon County",
@@ -10960,7 +10960,7 @@
      "Humidity": 66,
      "Cloudiness": 93,
      "Wind Speed": 5.09,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Macon County",
@@ -10970,7 +10970,7 @@
      "Humidity": 59,
      "Cloudiness": 87,
      "Wind Speed": 9.5,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Macon County",
@@ -10980,7 +10980,7 @@
      "Humidity": 51,
      "Cloudiness": 99,
      "Wind Speed": 4.86,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Macon County",
@@ -10990,7 +10990,7 @@
      "Humidity": 63,
      "Cloudiness": 20,
      "Wind Speed": 5.5,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Macon County",
@@ -11000,7 +11000,7 @@
      "Humidity": 80,
      "Cloudiness": 100,
      "Wind Speed": 7.39,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Kansas City",
@@ -11010,7 +11010,7 @@
      "Humidity": 51,
      "Cloudiness": 26,
      "Wind Speed": 4.08,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Kansas City",
@@ -11020,7 +11020,7 @@
      "Humidity": 50,
      "Cloudiness": 92,
      "Wind Speed": 5.34,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Kansas City",
@@ -11030,7 +11030,7 @@
      "Humidity": 49,
      "Cloudiness": 74,
      "Wind Speed": 5.73,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Kansas City",
@@ -11040,7 +11040,7 @@
      "Humidity": 65,
      "Cloudiness": 91,
      "Wind Speed": 7.14,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Kansas City",
@@ -11050,7 +11050,7 @@
      "Humidity": 60,
      "Cloudiness": 100,
      "Wind Speed": 6.43,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Palmdale",
@@ -11060,7 +11060,7 @@
      "Humidity": 25,
      "Cloudiness": 0,
      "Wind Speed": 3.54,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Palmdale",
@@ -11070,7 +11070,7 @@
      "Humidity": 17,
      "Cloudiness": 0,
      "Wind Speed": 1.95,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Palmdale",
@@ -11080,7 +11080,7 @@
      "Humidity": 12,
      "Cloudiness": 26,
      "Wind Speed": 4.34,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Palmdale",
@@ -11090,7 +11090,7 @@
      "Humidity": 20,
      "Cloudiness": 100,
      "Wind Speed": 5.16,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Palmdale",
@@ -11100,7 +11100,7 @@
      "Humidity": 26,
      "Cloudiness": 7,
      "Wind Speed": 2.86,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Sunnyvale",
@@ -11110,7 +11110,7 @@
      "Humidity": 61,
      "Cloudiness": 7,
      "Wind Speed": 1.69,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Sunnyvale",
@@ -11120,7 +11120,7 @@
      "Humidity": 32,
      "Cloudiness": 38,
      "Wind Speed": 1.12,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Sunnyvale",
@@ -11130,7 +11130,7 @@
      "Humidity": 40,
      "Cloudiness": 100,
      "Wind Speed": 1.35,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Sunnyvale",
@@ -11140,7 +11140,7 @@
      "Humidity": 45,
      "Cloudiness": 0,
      "Wind Speed": 2.34,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Sunnyvale",
@@ -11150,7 +11150,7 @@
      "Humidity": 42,
      "Cloudiness": 89,
      "Wind Speed": 0.72,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Springfield",
@@ -11160,7 +11160,7 @@
      "Humidity": 55,
      "Cloudiness": 9,
      "Wind Speed": 4.16,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Springfield",
@@ -11170,7 +11170,7 @@
      "Humidity": 50,
      "Cloudiness": 99,
      "Wind Speed": 5.75,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Springfield",
@@ -11180,7 +11180,7 @@
      "Humidity": 53,
      "Cloudiness": 0,
      "Wind Speed": 6.1,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Springfield",
@@ -11190,7 +11190,7 @@
      "Humidity": 61,
      "Cloudiness": 36,
      "Wind Speed": 7.15,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Springfield",
@@ -11200,7 +11200,7 @@
      "Humidity": 77,
      "Cloudiness": 100,
      "Wind Speed": 5.86,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Escondido",
@@ -11210,7 +11210,7 @@
      "Humidity": 22,
      "Cloudiness": 1,
      "Wind Speed": 3.64,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Escondido",
@@ -11220,7 +11220,7 @@
      "Humidity": 18,
      "Cloudiness": 0,
      "Wind Speed": 4.49,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Escondido",
@@ -11230,7 +11230,7 @@
      "Humidity": 21,
      "Cloudiness": 0,
      "Wind Speed": 3.44,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Escondido",
@@ -11240,7 +11240,7 @@
      "Humidity": 33,
      "Cloudiness": 100,
      "Wind Speed": 3.52,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Escondido",
@@ -11250,7 +11250,7 @@
      "Humidity": 43,
      "Cloudiness": 91,
      "Wind Speed": 3.7,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Pomona",
@@ -11260,7 +11260,7 @@
      "Humidity": 19,
      "Cloudiness": 1,
      "Wind Speed": 1.7,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Pomona",
@@ -11270,7 +11270,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 2.06,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Pomona",
@@ -11280,7 +11280,7 @@
      "Humidity": 14,
      "Cloudiness": 7,
      "Wind Speed": 2.76,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Pomona",
@@ -11290,7 +11290,7 @@
      "Humidity": 24,
      "Cloudiness": 100,
      "Wind Speed": 2.67,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Pomona",
@@ -11300,7 +11300,7 @@
      "Humidity": 30,
      "Cloudiness": 6,
      "Wind Speed": 2.6,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Bellevue",
@@ -11310,7 +11310,7 @@
      "Humidity": 90,
      "Cloudiness": 83,
      "Wind Speed": 1.54,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Bellevue",
@@ -11320,7 +11320,7 @@
      "Humidity": 93,
      "Cloudiness": 100,
      "Wind Speed": 5.97,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Bellevue",
@@ -11330,7 +11330,7 @@
      "Humidity": 87,
      "Cloudiness": 100,
      "Wind Speed": 5.15,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Bellevue",
@@ -11340,7 +11340,7 @@
      "Humidity": 64,
      "Cloudiness": 54,
      "Wind Speed": 1.56,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Bellevue",
@@ -11350,7 +11350,7 @@
      "Humidity": 59,
      "Cloudiness": 100,
      "Wind Speed": 2.32,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Surprise",
@@ -11360,7 +11360,7 @@
      "Humidity": 17,
      "Cloudiness": 1,
      "Wind Speed": 1.17,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Surprise",
@@ -11370,7 +11370,7 @@
      "Humidity": 12,
      "Cloudiness": 0,
      "Wind Speed": 0.8,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Surprise",
@@ -11380,7 +11380,7 @@
      "Humidity": 11,
      "Cloudiness": 0,
      "Wind Speed": 0.73,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Surprise",
@@ -11390,7 +11390,7 @@
      "Humidity": 12,
      "Cloudiness": 100,
      "Wind Speed": 1.72,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Surprise",
@@ -11400,7 +11400,7 @@
      "Humidity": 14,
      "Cloudiness": 86,
      "Wind Speed": 1.55,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Naperville",
@@ -11410,7 +11410,7 @@
      "Humidity": 66,
      "Cloudiness": 93,
      "Wind Speed": 4.95,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Naperville",
@@ -11420,7 +11420,7 @@
      "Humidity": 76,
      "Cloudiness": 100,
      "Wind Speed": 8.34,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Naperville",
@@ -11430,7 +11430,7 @@
      "Humidity": 64,
      "Cloudiness": 100,
      "Wind Speed": 3.26,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Naperville",
@@ -11440,7 +11440,7 @@
      "Humidity": 76,
      "Cloudiness": 67,
      "Wind Speed": 3.74,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Naperville",
@@ -11450,7 +11450,7 @@
      "Humidity": 94,
      "Cloudiness": 100,
      "Wind Speed": 4.73,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Pasadena",
@@ -11460,7 +11460,7 @@
      "Humidity": 31,
      "Cloudiness": 31,
      "Wind Speed": 4.15,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Pasadena",
@@ -11470,7 +11470,7 @@
      "Humidity": 43,
      "Cloudiness": 1,
      "Wind Speed": 2.43,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Pasadena",
@@ -11480,7 +11480,7 @@
      "Humidity": 50,
      "Cloudiness": 22,
      "Wind Speed": 4.64,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Pasadena",
@@ -11490,7 +11490,7 @@
      "Humidity": 49,
      "Cloudiness": 1,
      "Wind Speed": 6.27,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Pasadena",
@@ -11500,7 +11500,7 @@
      "Humidity": 59,
      "Cloudiness": 95,
      "Wind Speed": 4.53,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Denton",
@@ -11510,7 +11510,7 @@
      "Humidity": 32,
      "Cloudiness": 1,
      "Wind Speed": 3.3,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Denton",
@@ -11520,7 +11520,7 @@
      "Humidity": 40,
      "Cloudiness": 24,
      "Wind Speed": 3.04,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Denton",
@@ -11530,7 +11530,7 @@
      "Humidity": 38,
      "Cloudiness": 13,
      "Wind Speed": 4.27,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Denton",
@@ -11540,7 +11540,7 @@
      "Humidity": 44,
      "Cloudiness": 0,
      "Wind Speed": 9.26,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Denton",
@@ -11550,7 +11550,7 @@
      "Humidity": 39,
      "Cloudiness": 0,
      "Wind Speed": 7.63,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Roseville",
@@ -11560,7 +11560,7 @@
      "Humidity": 75,
      "Cloudiness": 60,
      "Wind Speed": 1.4,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Roseville",
@@ -11570,7 +11570,7 @@
      "Humidity": 41,
      "Cloudiness": 100,
      "Wind Speed": 1.53,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Roseville",
@@ -11580,7 +11580,7 @@
      "Humidity": 44,
      "Cloudiness": 100,
      "Wind Speed": 1.66,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Roseville",
@@ -11590,7 +11590,7 @@
      "Humidity": 55,
      "Cloudiness": 0,
      "Wind Speed": 2.5,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Roseville",
@@ -11600,7 +11600,7 @@
      "Humidity": 53,
      "Cloudiness": 100,
      "Wind Speed": 1.14,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Joliet",
@@ -11610,7 +11610,7 @@
      "Humidity": 67,
      "Cloudiness": 93,
      "Wind Speed": 4.89,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Joliet",
@@ -11620,7 +11620,7 @@
      "Humidity": 80,
      "Cloudiness": 100,
      "Wind Speed": 8.87,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Joliet",
@@ -11630,7 +11630,7 @@
      "Humidity": 70,
      "Cloudiness": 100,
      "Wind Speed": 3.06,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Joliet",
@@ -11640,7 +11640,7 @@
      "Humidity": 76,
      "Cloudiness": 29,
      "Wind Speed": 3.84,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Joliet",
@@ -11650,7 +11650,7 @@
      "Humidity": 91,
      "Cloudiness": 100,
      "Wind Speed": 3.89,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Thornton",
@@ -11660,7 +11660,7 @@
      "Humidity": 22,
      "Cloudiness": 83,
      "Wind Speed": 6.79,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Thornton",
@@ -11670,7 +11670,7 @@
      "Humidity": 21,
      "Cloudiness": 55,
      "Wind Speed": 6.49,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Thornton",
@@ -11680,7 +11680,7 @@
      "Humidity": 17,
      "Cloudiness": 62,
      "Wind Speed": 3,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Thornton",
@@ -11690,7 +11690,7 @@
      "Humidity": 11,
      "Cloudiness": 100,
      "Wind Speed": 2.2,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Thornton",
@@ -11700,7 +11700,7 @@
      "Humidity": 47,
      "Cloudiness": 76,
      "Wind Speed": 3.06,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "McAllen",
@@ -11710,7 +11710,7 @@
      "Humidity": 42,
      "Cloudiness": 74,
      "Wind Speed": 4.93,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "McAllen",
@@ -11720,7 +11720,7 @@
      "Humidity": 43,
      "Cloudiness": 1,
      "Wind Speed": 4.59,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "McAllen",
@@ -11730,7 +11730,7 @@
      "Humidity": 40,
      "Cloudiness": 1,
      "Wind Speed": 5.61,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "McAllen",
@@ -11740,7 +11740,7 @@
      "Humidity": 35,
      "Cloudiness": 0,
      "Wind Speed": 7.78,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "McAllen",
@@ -11750,7 +11750,7 @@
      "Humidity": 36,
      "Cloudiness": 94,
      "Wind Speed": 7.6,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Paterson",
@@ -11760,7 +11760,7 @@
      "Humidity": 69,
      "Cloudiness": 76,
      "Wind Speed": 6.53,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Paterson",
@@ -11770,7 +11770,7 @@
      "Humidity": 55,
      "Cloudiness": 85,
      "Wind Speed": 3.52,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Paterson",
@@ -11780,7 +11780,7 @@
      "Humidity": 55,
      "Cloudiness": 66,
      "Wind Speed": 5.68,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Paterson",
@@ -11790,7 +11790,7 @@
      "Humidity": 46,
      "Cloudiness": 19,
      "Wind Speed": 4.15,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Paterson",
@@ -11800,7 +11800,7 @@
      "Humidity": 59,
      "Cloudiness": 100,
      "Wind Speed": 1.21,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Rockford",
@@ -11810,7 +11810,7 @@
      "Humidity": 62,
      "Cloudiness": 92,
      "Wind Speed": 6.05,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Rockford",
@@ -11820,7 +11820,7 @@
      "Humidity": 73,
      "Cloudiness": 100,
      "Wind Speed": 7.88,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Rockford",
@@ -11830,7 +11830,7 @@
      "Humidity": 90,
      "Cloudiness": 100,
      "Wind Speed": 3.55,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Rockford",
@@ -11840,7 +11840,7 @@
      "Humidity": 77,
      "Cloudiness": 52,
      "Wind Speed": 5.54,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Rockford",
@@ -11850,7 +11850,7 @@
      "Humidity": 69,
      "Cloudiness": 100,
      "Wind Speed": 4,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Carrollton",
@@ -11860,7 +11860,7 @@
      "Humidity": 29,
      "Cloudiness": 1,
      "Wind Speed": 2.21,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Carrollton",
@@ -11870,7 +11870,7 @@
      "Humidity": 37,
      "Cloudiness": 42,
      "Wind Speed": 1.46,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Carrollton",
@@ -11880,7 +11880,7 @@
      "Humidity": 38,
      "Cloudiness": 6,
      "Wind Speed": 3.94,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Carrollton",
@@ -11890,7 +11890,7 @@
      "Humidity": 44,
      "Cloudiness": 0,
      "Wind Speed": 8.06,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Carrollton",
@@ -11900,7 +11900,7 @@
      "Humidity": 39,
      "Cloudiness": 0,
      "Wind Speed": 6.69,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Bridgeport",
@@ -11910,7 +11910,7 @@
      "Humidity": 74,
      "Cloudiness": 29,
      "Wind Speed": 12.28,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Bridgeport",
@@ -11920,7 +11920,7 @@
      "Humidity": 55,
      "Cloudiness": 100,
      "Wind Speed": 4.39,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Bridgeport",
@@ -11930,7 +11930,7 @@
      "Humidity": 61,
      "Cloudiness": 77,
      "Wind Speed": 7.53,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Bridgeport",
@@ -11940,7 +11940,7 @@
      "Humidity": 48,
      "Cloudiness": 11,
      "Wind Speed": 5.25,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Bridgeport",
@@ -11950,7 +11950,7 @@
      "Humidity": 67,
      "Cloudiness": 100,
      "Wind Speed": 3.61,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Miramar",
@@ -11960,7 +11960,7 @@
      "Humidity": 60,
      "Cloudiness": 45,
      "Wind Speed": 2.65,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Miramar",
@@ -11970,7 +11970,7 @@
      "Humidity": 47,
      "Cloudiness": 100,
      "Wind Speed": 3.53,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Miramar",
@@ -11980,7 +11980,7 @@
      "Humidity": 43,
      "Cloudiness": 99,
      "Wind Speed": 6.68,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Miramar",
@@ -11990,7 +11990,7 @@
      "Humidity": 52,
      "Cloudiness": 22,
      "Wind Speed": 7.63,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Miramar",
@@ -12000,7 +12000,7 @@
      "Humidity": 54,
      "Cloudiness": 100,
      "Wind Speed": 7.76,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Round Rock",
@@ -12010,7 +12010,7 @@
      "Humidity": 29,
      "Cloudiness": 1,
      "Wind Speed": 1.76,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Round Rock",
@@ -12020,7 +12020,7 @@
      "Humidity": 43,
      "Cloudiness": 7,
      "Wind Speed": 4.42,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Round Rock",
@@ -12030,7 +12030,7 @@
      "Humidity": 49,
      "Cloudiness": 5,
      "Wind Speed": 6.29,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Round Rock",
@@ -12040,7 +12040,7 @@
      "Humidity": 43,
      "Cloudiness": 0,
      "Wind Speed": 8.35,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Round Rock",
@@ -12050,7 +12050,7 @@
      "Humidity": 43,
      "Cloudiness": 6,
      "Wind Speed": 7.38,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Metairie",
@@ -12060,7 +12060,7 @@
      "Humidity": 46,
      "Cloudiness": 1,
      "Wind Speed": 6.28,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Metairie",
@@ -12070,7 +12070,7 @@
      "Humidity": 39,
      "Cloudiness": 0,
      "Wind Speed": 2.27,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Metairie",
@@ -12080,7 +12080,7 @@
      "Humidity": 50,
      "Cloudiness": 2,
      "Wind Speed": 1.27,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Metairie",
@@ -12090,7 +12090,7 @@
      "Humidity": 53,
      "Cloudiness": 0,
      "Wind Speed": 2.37,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Metairie",
@@ -12100,7 +12100,7 @@
      "Humidity": 65,
      "Cloudiness": 100,
      "Wind Speed": 3.22,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Olathe",
@@ -12110,7 +12110,7 @@
      "Humidity": 52,
      "Cloudiness": 22,
      "Wind Speed": 4.59,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Olathe",
@@ -12120,7 +12120,7 @@
      "Humidity": 50,
      "Cloudiness": 96,
      "Wind Speed": 4.95,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Olathe",
@@ -12130,7 +12130,7 @@
      "Humidity": 48,
      "Cloudiness": 41,
      "Wind Speed": 6.41,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Olathe",
@@ -12140,7 +12140,7 @@
      "Humidity": 65,
      "Cloudiness": 86,
      "Wind Speed": 7.69,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Olathe",
@@ -12150,7 +12150,7 @@
      "Humidity": 60,
      "Cloudiness": 100,
      "Wind Speed": 7.38,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    },
    {
      "City": "Waco",
@@ -12160,7 +12160,7 @@
      "Humidity": 27,
      "Cloudiness": 1,
      "Wind Speed": 2.2,
-     "Date": "2021-11-13 21:00:00"
+     "Date": "2021-11-13 "
    },
    {
      "City": "Waco",
@@ -12170,7 +12170,7 @@
      "Humidity": 41,
      "Cloudiness": 2,
      "Wind Speed": 3.93,
-     "Date": "2021-11-14 21:00:00"
+     "Date": "2021-11-14 "
    },
    {
      "City": "Waco",
@@ -12180,7 +12180,7 @@
      "Humidity": 49,
      "Cloudiness": 0,
      "Wind Speed": 6.6,
-     "Date": "2021-11-15 21:00:00"
+     "Date": "2021-11-15 "
    },
    {
      "City": "Waco",
@@ -12190,7 +12190,7 @@
      "Humidity": 45,
      "Cloudiness": 1,
      "Wind Speed": 9.61,
-     "Date": "2021-11-16 21:00:00"
+     "Date": "2021-11-16 "
    },
    {
      "City": "Waco",
@@ -12200,7 +12200,7 @@
      "Humidity": 43,
      "Cloudiness": 0,
      "Wind Speed": 8.73,
-     "Date": "2021-11-17 21:00:00"
+     "Date": "2021-11-17 "
    }
   ]}
 
