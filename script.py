@@ -7,7 +7,7 @@ import pymongo
 
 def api_call():
     #connect to mongo db
-    client = pymongo.MongoClient("mongodb://localhost:27017")
+    client = pymongo.MongoClient("mongodb+srv://nnoark:073061@weather-project.nwbct.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
     #getting city list of top 200 cities
 
